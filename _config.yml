@@ -1,4 +1,14 @@
-name: Tactile Theme
+name: High Performance Computing Group
+author: University of Bristol
 markdown: redcarpet
 pygments: true
 permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      weight: 1
+      layout: page
