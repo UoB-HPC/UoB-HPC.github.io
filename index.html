@@ -1,52 +1,23 @@
-<!DOCTYPE html>
-<html>
+---
+layout: page
+title: Jekyll version of Tactile Theme
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="High Performance Computing Group : University of Bristol ">
+<!-- <h1>List of posts</h1> -->
+<dl class="posts">
+  {% for post in site.posts %}
+    <dt><a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    <p class="authorline">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}</p>
+    </dt>
+    <dd>{{ post.excerpt }}</dd><br/>
+  {% endfor %}
+</dl>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>High Performance Computing Group</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/UoB-HPC">View on GitHub</a>
-
-          <h1 id="project_title">High Performance Computing Group</h1>
-          <h2 id="project_tagline">University of Bristol </h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h2>
-<a id="high-performance-computing-group" class="anchor" href="#high-performance-computing-group" aria-hidden="true"><span class="octicon octicon-link"></span></a>High Performance Computing Group</h2>
-
-<p>Some text here.</p>
-
-<h3>
-<a id="other-stuff" class="anchor" href="#other-stuff" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other stuff</h3>
-
-<p>Some text here.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
+<br/><br/>
+<h1>List of named files</h1>
+<ul>
+<li><a href="index-non-jekyll.html">index-non-jekyll.html</a></li>
+<li><a href="about/index.html">about/index.html</a></li>
+</ul>
+<br/>
