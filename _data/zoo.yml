@@ -1,3 +1,37 @@
-- device: name
-  vendor: vendor
-  info: info
+- device: Tesla K20
+  vendor: NVIDIA
+  node: yawai
+
+- device: Tesla K40
+  vendor: NVIDIA
+  node: yawai
+
+- device: GeForce GTX 980
+  vendor: NVIDIA
+  node: stahp
+
+- device: GeForce GTX 780 Ti
+  vendor: NVIDIA
+  node: stahp
+
+- device: GeForce GTX 680
+  vendor: NVIDIA
+  node: tldr (head node)
+
+- device: Radeon HD 7970
+  vendor: AMD
+
+- device: Radeon R9 290X
+  vendor: AMD
+  node: nowai
+
+- device: Radeon S9 150
+  vendor: AMD
+  node: nowai
+
+- device: Radeon R9 295X2
+  vendor: AMD
+  node: nameless machine
+
+- device: Xeon Phi
+  vendor: Intel

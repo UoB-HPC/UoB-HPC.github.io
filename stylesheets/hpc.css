@@ -24,3 +24,7 @@
 .publication {
 	padding-bottom: 2em;
 }
+
+.zoo-list th {
+	font-weight: bold;
+}
