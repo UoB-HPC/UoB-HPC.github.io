@@ -1,0 +1,124 @@
+- title: On the performance portability of structured grid codes on many-core computer architectures
+  authors: ['McIntosh-Smith, S. N.', 'Boulton, M.', 'Curran, D.', 'Price, J. R.']
+  date: Jun 2014
+  reference: 'International Supercomputing. Springer International Publishing Switzerland, Vol. LNCS 8488, p. 53-75 23 p.'
+
+- title: A GPU-accelerated immersive audio-visual framework for interaction with molecular dynamics using consumer depth sensors
+  authors: ['Glowacki, D. R.', "O'Connor, M.", 'Calabro, G.', 'Price, J. R.', 'Tew, P.', 'Mitchell, T.', 'Jyde, J.', 'Tew, D. P.', 'Coughtrie, D. J.', 'McIntosh-Smith, S. N.']
+  date: 7 May 2014
+  reference: 25 p.
+
+- title: Evaluation of a performance portable lattice Boltzmann code using OpenCL
+  authors: ['McIntosh-Smith, S. N.', 'Curran, D.']
+  date: May 2014
+
+- title: Optimising Hydrodynamics applications for the Cray XC30 with the application tool suite
+  authors: ['Gaudin, W.', 'Mallinson, A.', 'Perks, O.', 'Herdman, J.', 'Levesque, J.', 'Jarvis, S.', 'McIntosh-Smith, S. N.']
+  date: May 2014
+
+- title: Rapid Decomposition and Visualisation of Protein-Ligand Binding Free Energies by Residue and by Water
+  authors: ['Woods, C. J.', 'Malaisree, M.', 'Long, B. J. O.', 'McIntosh-Smith, S. N.', 'Mulholland, A. J.']
+  date: May 2014
+  reference: 23 p.
+
+- title: High performance in silico virtual drug screening on many-core processors
+  authors: ['McIntosh-Smith, S. N.', 'Price, J. R.', 'Sessions, R. B.', 'Avila Ibarra, A.']
+  date: 2014
+  reference: International Journal of High Performance Computing Applications. 16 p.
+
+- title: Computational Assay of H7N9 Influenza Neuraminidase Reveals R292K Mutation Reduces Drug Binding Affinity
+  authors: ['Woods, C. J.', 'Malaisree, M.', 'Long, B.', 'McIntosh-Smith, S.', 'Mulholland, A. J.']
+  date: 20 Dec 2013
+  reference: 'Scientific Reports. 3, 6 p.3561'
+
+- title: Special issue of the Journal of Parallel and Distributed Computing (JDPC) on novel architectures for high-performance computing
+  authors: ['McIntosh-Smith, S.', 'Gillan, C.', 'Sanna, N.', 'Scott, S.', 'Steinke, T.']
+  date: Nov 2013
+  reference: 'Journal of Parallel and Distributed Computing. 73, 11, p. 1415-1416 2 p.'
+
+
+- title: 'Porting a commercial application to OpenCL: A case study'
+  authors: ['Krige, S., Mackey', 'M., McIntosh-Smith, S. N.', 'Sessions, R. B.']
+  date: May 2013
+
+- title: 'How GPUs can find your next hit: Accelerating virtual screening with OpenCL.'
+  authors: ['Krige, S.', 'Mackey, M.', 'McIntosh-Smith, S. N.', 'Sessions, R. B.']
+  date: Apr 2013
+
+- title: Analysis and assay of oseltamivir-resistant mutants of influenza neuraminidase via direct observation of drug unbinding and rebinding in simulation
+  authors: ['Woods, C. J.', 'Malaisree, M.', 'Long, B. J. O.', 'McIntosh-Smith, S. N.', 'Mulholland, A. J.']
+  date: 2013
+  reference: 'Biochemistry. 52, 45, p. 8150–8164'
+
+- title: 'danceroom Spectroscopy: Interactive quantum molecular dynamics accelerated on GPU architectures using OpenCL'
+  authors: ['Glowacki, D. R.', 'Tew, D. P.', 'Mitchell, T. J. F.', 'Price, J. R.', 'McIntosh-Smith, S. N.']
+  date: Dec 2012
+
+- title: 'Accelerating Hydrocodes with OpenACC, OpenCL and CUDA'
+  authors: ['Herdman, J. A.', 'Gaudin, W. P.', 'McIntosh-Smith, S. N.', 'Boulton, M.', 'Beckingsale, D. A.', 'Mallinson, A. C.', 'Jarvis, S. A.']
+  date: 29 Jun 2012
+  reference: '2012 SC Companion: High Performance Computing, Networking Storage and Analysis. IEEE Computer Society, p. 465-471 12 p.'
+
+- title: SIMD array operable to process different respective packet protocols simultaneously while executing a single common instruction stream
+  authors: ['McIntosh-Smith, S. N.', 'Rhoades, J.', 'Cameron, K.', 'Winser, P.', 'McConnell, R.', 'Panesar, G.']
+  date: 28 Feb 2012
+  reference: Patent 8127112
+
+- title: 'Energy Efficient HPC Software: Learning from Embedded Systems Development'
+  authors: ['Kerrison, S. P.', 'Eder, K. I.', 'McIntosh-Smith, S. N.']
+  date: 16 Feb 2012
+  reference: 'SIAM Conference on Parallel Processing for Scientific Computing. SIAM, 30 p.'
+
+- title: 'Benchmarking energy efficiency, power costs and carbon emissions on heterogeneous systems'
+  authors: ['McIntosh-Smith, S.', 'Wilson, T.', 'Ávila Ibarra, A.', 'Crisp, J.', 'Sessions, R. B.']
+  date: Feb 2012
+  reference: 'The Computer Journal. 55, 2, p. 192 - 205 14 p.'
+
+- title: 'Exploiting OpenCL for heterogeneous computing: A case study'
+  authors: ['McIntosh-Smith, S. N.']
+  date: 14 Dec 2011
+
+- title: A method for automatically generating analogue benchmarksuites using low-level hardware metrics
+  authors: ['McIntosh-Smith, S. N.', 'Thomas, O.']
+  date: Nov 2011
+  reference: 'ACM SIGMETRICS Performance Evaluation Review. ACM, p. 17-18 2 p.'
+
+- title: 'The GPU Computing Revolution: From Multi-Core CPUs to Many-Core Graphics Processors: A Knowledge Transfer Report from the London Mathematical Society and Knowledge Transfer Network for Industrial Mathematics'
+  authors: ['McIntosh-Smith, S. N.']
+  date: Sep 2011
+  reference: London Mathematical Society. 32 p. (Knowledge Transfer Reports)
+
+- title: Accelerated molecular docking with OpenCL
+  authors: ['McIntosh-Smith, S. N.']
+  date: 14 Jun 2011
+
+- title: A massively multicore parallelization of the Kohn-Sham energy gradients
+  authors: ['Brown, P. S.', 'Woods, C. J.', 'McIntosh-Smith, S. N.', 'Manby, F. R.']
+  date: Jul 2010
+  reference: 'Journal of Computational Chemistry. 31, 10, p. 2008 - 2013 6 p.'
+
+- title: Parallel path tracing using incoherent path-atom binning
+  authors: ['Coulthurst, D. J.', 'Dubla, P. B.', 'Debattista, K.', 'McIntosh-Smith, S. N.', 'Chalmers, A. G.']
+  date: 23 Apr 2008
+  reference: p. 91-95
+
+- title: A 50-GFLOPS Processor for Scientific Computing and DSP
+  authors: ['McIntosh-Smith, S. N.']
+  date: Oct 2004
+
+- title: "Turbo-charged applications on ClearSpeed's streaming processors"
+  authors: ['McIntosh-Smith, S. N.']
+  date: 2004
+
+
+- title: Intelligent Algorithm Decomposition for Parallelism
+  authors: ['Brown, M.', 'Hurley, S.', 'McIntosh-Smith, S. N.']
+  date: 22 Jun 1994
+  reference: p. 489-496
+
+
+- title: Intelligent Algorithm Decomposition for Parallelism with Alfer
+  authors: ['McIntosh-Smith, S. N.', 'Brown, M.', 'Hurley, S.']
+  date: 24 Apr 1994
+  reference: p. 47-56
+
