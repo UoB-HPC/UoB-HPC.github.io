@@ -41,12 +41,12 @@ A brief summary of the commands is presented in the table, with some specific ex
 
 <table class="zoo-list">
 <tr><th>Command</th><th>Usage</th></tr>
-<tr><td>`squeue`</td><td>List running and queued jobs</td></tr>
-<tr><td>`sinfo`</td><td>Information about the state of the queues</td></tr>
-<tr><td>`salloc`</td><td>Allocate nodes and run a command (often `bash` for an interactive job)</td></tr>
-<tr><td>`srun`</td><td>Run a command on the nodes allocated to the job (like `mpirun`)</td></tr>
-<tr><td>`sbatch`</td><td>Enqueue a batch script, containing a number of `srun` (or `mpirun`) commands</td></tr>
-<tr><td>`scancel`</td><td>Kill a job</td></tr>
+<tr><td><code>squeue</code></td><td>List running and queued jobs</td></tr>
+<tr><td><code>sinfo</code></td><td>Information about the state of the queues</td></tr>
+<tr><td><code>salloc</code></td><td>Allocate nodes and run a command (often <code>bash</code> for an interactive job)</td></tr>
+<tr><td><code>srun</code></td><td>Run a command on the nodes allocated to the job (like <code>mpirun</code>)</td></tr>
+<tr><td><code>sbatch</code></td><td>Enqueue a batch script, containing a number of <code>srun</code> (or <code>mpirun</code>) commands</td></tr>
+<tr><td><code>scancel</code></td><td>Kill a job</td></tr>
 </table>
 
 ## Examples
