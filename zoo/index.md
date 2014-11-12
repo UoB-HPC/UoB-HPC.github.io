@@ -66,6 +66,7 @@ When we exit the bash shell the job will end.
 In this example, we would like to interactively run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
 Firstly, we use `salloc` to allocate an interactive shell job comprising of 8 tasks.
 We can then use `mpirun` to run the executable over the 8 tasks.
+Note, you don't specify the number of MPI tasks in the `mpirun` command.
 
     $ salloc -n8 bash
     salloc: Granted job allocation 82
