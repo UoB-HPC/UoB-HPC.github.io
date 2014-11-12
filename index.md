@@ -17,7 +17,6 @@ Introduction paragraph
 - [BUDE](http://www.bris.ac.uk/biochemistry/research/bude)  
   A GPU accelerated molecular docking program that can be used to perform virtual drug screening, ligand binding site identification on protein surfaces, and protein-protein docking in real space. Collaboration with the School of Biochemistry.
 
-
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
   An extensible OpenCL device simulator that provides a platform with which various OpenCL developer tools can be created. Includes support for detecting memory access errors, race conditions, work-group divergence, and provides an interactive debugging environment.
 
@@ -26,3 +25,10 @@ Introduction paragraph
 
 - [Hands On OpenCL](http://handsonopencl.github.io/)  
   Hands On OpenCL is a two-day lecture course introducing OpenCL, the API for writing heterogeneous applications. Provided are slides for around twelve lectures, plus some appendices, complete with Examples and Solutions in C, C++ and Python. The lecture series finishes with information on porting CUDA applications to OpenCL.
+
+- [TeaLeaf](http://uk-mac.github.io/TeaLeaf/) and [TeaLeaf 3D](http://uk-mac.github.io/TeaLeaf3D/)  
+  Matrix free linear solver. A heat conduction benchmark, part of the [Mantevo Project](https://mantevo.org/).
+
+- [CloverLeaf](http://uk-mac.github.io/CloverLeaf/) and [CloverLeaf 3D](http://uk-mac.github.io/CloverLeaf3D/)  
+  A Lagrangian-Eulerian hydrodynamics benchmark, part of the [Mantevo Project](https://mantevo.org/).
+
