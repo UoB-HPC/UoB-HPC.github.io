@@ -51,6 +51,20 @@ The cluster uses the queuing system [slurm](http://www.schedmd.com/slurmdocs/slu
 
 
 # List of devices
+
+Each of our devices is situated in a host machine, which have different CPUs.
+
+## Nodes
+<table class="zoo-list">
+<tr><th>Node name</th><th>CPU</th><th>RAM</th></tr>
+<tr><td>tldr (head node)</td><td>?</td><td>?</td></tr>
+<tr><td>yawai</td><td>?</td><td>?</td></tr>
+<tr><td>nowai</td><td>?</td><td>?</td></tr>
+<tr><td>stahp</td><td>?</td><td>?</td></tr>
+</table>
+
+## Devices
+
 <table class="zoo-list">
 <tr>
 <th>Device</th>
