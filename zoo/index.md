@@ -63,7 +63,7 @@ To run a command on the prompt on **all** the nodes in the allocation, we need t
 When we exit the bash shell the job will end.
 
 ### MPI Example
-In this example, we would like to run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
+In this example, we would like to interactively run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
 Firstly, we use `salloc` to allocate an interactive shell job comprising of 8 tasks.
 We can then use `mpirun` to run the executable over the 8 tasks.
 
@@ -78,13 +78,12 @@ We can then use `mpirun` to run the executable over the 8 tasks.
     Hello, world; from host ohmai: process 2 of 8
     Hello, world; from host ohmai: process 3 of 8
     Hello, world; from host ohmai: process 0 of 8
-    $
+    $ exit
     salloc: Relinquishing job allocation 82
     salloc: Job allocation 82 has been revoked.
 
 ### OpenCL Example
 In this example, we would like to run the OpenCL code `./vadd` on a GPU.
-
 
 ### Batch job
 In this example, we would like to submit
