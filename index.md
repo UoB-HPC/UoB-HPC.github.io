@@ -21,3 +21,8 @@ Introduction paragraph
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
   An extensible OpenCL device simulator that provides a platform with which various OpenCL developer tools can be created. Includes support for detecting memory access errors, race conditions, work-group divergence, and provides an interactive debugging environment.
 
+- Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
+  An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php), [Dockleaf](http://uk-mac.github.io/DockLeaf/) and [Palmleaf](http://uk-mac.github.io/PalmLeaf/).
+
+- [HandsOnOpenCL](http://handsonopencl.github.io/)  
+  Hands On OpenCL is a two-day lecture course introducing OpenCL, the API for writing heterogeneous applications. Provided are slides for around twelve lectures, plus some appendices, complete with Examples and Solutions in C, C++ and Python. The lecture series finishes with information on porting CUDA applications to OpenCL.
