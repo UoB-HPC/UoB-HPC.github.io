@@ -24,5 +24,5 @@ Introduction paragraph
 - Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
   An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php), [DockLeaf](http://uk-mac.github.io/DockLeaf/) and [PalmLeaf](http://uk-mac.github.io/PalmLeaf/).
 
-- [HandsOnOpenCL](http://handsonopencl.github.io/)  
+- [Hands On OpenCL](http://handsonopencl.github.io/)  
   Hands On OpenCL is a two-day lecture course introducing OpenCL, the API for writing heterogeneous applications. Provided are slides for around twelve lectures, plus some appendices, complete with Examples and Solutions in C, C++ and Python. The lecture series finishes with information on porting CUDA applications to OpenCL.
