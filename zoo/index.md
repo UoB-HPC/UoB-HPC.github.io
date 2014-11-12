@@ -39,15 +39,15 @@ The cluster uses the queuing system [slurm](http://www.schedmd.com/slurmdocs/slu
 By using the queue, you can request interactive and batch jobs to be run on the cluster.
 A brief summary of the commands is presented in the table, with some specific example use cases detailed below it.
 
-| Command   | Usage                                                                        |
-|-----------|------------------------------------------------------------------------------|
-| `squeue`  | List running and queued jobs                                                 |
-| `sinfo`   | Information about the state of the queues                                    |
-| `salloc`  | Allocate nodes and run a command (often `bash` for an interactive job)       |
-| `srun`    | Run a command on the nodes allocated to the job (like `mpirun`)              |
-| `sbatch`  | Enqueue a batch script, containing a number of `srun` (or `mpirun`) commands |
-| `scancel` | Kill a job                                                                   |
-
+<table class="zoo-list">
+<tr><th>Command</th><th>Usage</th></tr>
+<tr><td>`squeue`</td><td>List running and queued jobs</td></tr>
+<tr><td>`sinfo`</td><td>Information about the state of the queues</td></tr>
+<tr><td>`salloc`</td><td>Allocate nodes and run a command (often `bash` for an interactive job)</td></tr>
+<tr><td>`srun`</td><td>Run a command on the nodes allocated to the job (like `mpirun`)</td></tr>
+<tr><td>`sbatch`</td><td>Enqueue a batch script, containing a number of `srun` (or `mpirun`) commands</td></tr>
+<tr><td>`scancel`</td><td>Kill a job</td></tr>
+</table>
 
 ## Examples
 
