@@ -68,10 +68,3 @@ The cluster uses the queuing system [slurm](http://www.schedmd.com/slurmdocs/slu
 {% endfor %}
 </table>
 
-# List of devices
-| Device | Vendor | Node | Instructions |
-|--------|--------|------|--------------|
-{% for device in site.data.zoo %}
-| {{ device.device }} | {{ device.vendor }} | {{ device.node }} |{{ device.info }} |
-{% endfor %}
-</table>
