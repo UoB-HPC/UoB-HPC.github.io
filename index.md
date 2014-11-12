@@ -4,7 +4,15 @@ title: Home
 weight: 0
 ---
 
-Introduction paragraph
+The High Performance Computing group, led by [Simon McIntosh-Smith](http://www.cs.bris.ac.uk/home/simonm/) is part of the [Microelectronics Research Group](http://www.cs.bris.ac.uk/Research/Micro/) in the [Department of Computer Science](https://www.cs.bris.ac.uk) at the [University of Bristol](http://www.bristol.ac.uk).
+
+Our research focuses on the application of heterogeneous and many-core computing to solve large-scale scientific problems. Related research problems we are addressing include: performance portability across many-core devices; automatic optimisation of many-core codes; communication-avoiding algorithms for massive scale systems; and fault tolerance software techniques for resiliency at scale.
+
+The group maintains an experimental cluster of some of the fastest and most exotic GPUs and accelerators in the world - see the [web page](/zoo) for information on our ‘Zoo'.
+
+Bristol University also boasts the [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk/) hosting BlueCrystal Phase 3 which featured in the [Top 500](http://www.top500.org/) supercomputers in the world in 2013. The university’s HPC resources include around 10,000 cores and over 100 GPUs and accelerators from Nvidia, Intel and AMD.
+
+We also offer training in parallel programming. Simon McIntosh-Smith is one of the foremost OpenCL trainers in the world, having taught the subject since 2009. He has run many OpenCL training courses at conferences such as SuperComputing and HiPEAC, and has provided OpenCL training for academic endeavours, including the UK's national supercomputing service, the Barcelona Supercomputing Centre, and Uppsala’s UPMARC summer school. He has also run many OpenCL training courses for commercial entities. With OpenCL training experience ranging from half day on-site introductions within companies, to two-day intensive hands-on workshops for undergraduates, Simon and his team can provide customized OpenCL training to meet your needs. Get in touch if you'd like to know more.
 
 # List of projects
 
