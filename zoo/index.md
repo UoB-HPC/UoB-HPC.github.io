@@ -57,10 +57,11 @@ Each of our devices is situated in a host machine, which have different CPUs.
 ## Nodes
 <table class="zoo-list">
 <tr><th>Node name</th><th>CPU</th><th>RAM</th></tr>
-<tr><td>tldr (head node)</td><td>?</td><td>?</td></tr>
+<tr><td>tldr (head node)</td><td>Intel Xeon CPU W3530 @ 2.80GHz (Nehalem)</td><td>6 GB</td></tr>
 <tr><td>yawai</td><td>?</td><td>?</td></tr>
 <tr><td>nowai</td><td>?</td><td>?</td></tr>
-<tr><td>stahp</td><td>?</td><td>?</td></tr>
+<tr><td>ohmai</td><td>?</td><td>?</td></tr>
+<tr><td>stahp</td><td>Intel Core i5-3550 @ 3.30GHz (Ivy Bridge)</td><td>12 GB</td></tr>
 </table>
 
 ## Devices
