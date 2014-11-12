@@ -36,19 +36,58 @@ Note: the public key has extension `.pub` and the private key has *no* extension
 
 # Submitting a job
 The cluster uses the queuing system [slurm](http://www.schedmd.com/slurmdocs/slurm.html).
+By using the queue, you can request interactive and batch jobs to be run on the cluster.
+A brief summary of the commands is presented in the table, with some specific example use cases detailed below it.
 
-## View information about the queues
-`squeue`
+| Command   | Usage                                                                        |
+|-----------|------------------------------------------------------------------------------|
+| `squeue`  | List running and queued jobs                                                 |
+| `sinfo`   | Information about the state of the queues                                    |
+| `salloc`  | Allocate nodes and run a command (often `bash` for an interactive job)       |
+| `srun`    | Run a command on the nodes allocated to the job (like `mpirun`)              |
+| `sbatch`  | Enqueue a batch script, containing a number of `srun` (or `mpirun`) commands |
+| `scancel` | Kill a job                                                                   |
 
-## Interactive job
-`srun`
 
-## Batch job
-`sbatch`
+## Examples
 
-## Killing jobs
-`scancel`
+We present some sample use cases for testing out applications on the cluster.
 
+### Interactive job
+In this example, we would like to request a single node interactively to compile some code.
+
+    $ salloc -n1 bash
+
+This then drops us down to a bash shell to run jobs interactively.
+To run a command on the prompt on **all** the nodes in the allocation, we need to  place `srun` at the start of each line: for example `srun ./a.out`.
+When we exit the bash shell the job will end.
+
+### MPI Example
+In this example, we would like to run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
+Firstly, we use `salloc` to allocate an interactive shell job comprising of 8 tasks.
+We can then use `mpirun` to run the executable over the 8 tasks.
+
+    $ salloc -n8 bash
+    salloc: Granted job allocation 82
+    $ mpirun ./hello_world_c
+    Hello, world; from host yawai: process 4 of 8
+    Hello, world; from host yawai: process 5 of 8
+    Hello, world; from host yawai: process 6 of 8
+    Hello, world; from host yawai: process 7 of 8
+    Hello, world; from host ohmai: process 1 of 8
+    Hello, world; from host ohmai: process 2 of 8
+    Hello, world; from host ohmai: process 3 of 8
+    Hello, world; from host ohmai: process 0 of 8
+    $
+    salloc: Relinquishing job allocation 82
+    salloc: Job allocation 82 has been revoked.
+
+### OpenCL Example
+In this example, we would like to run the OpenCL code `./vadd` on a GPU.
+
+
+### Batch job
+In this example, we would like to submit
 
 # List of devices
 
