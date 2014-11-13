@@ -84,7 +84,14 @@ Note, you don't specify the number of MPI tasks in the `mpirun` command.
     salloc: Job allocation 82 has been revoked.
 
 ### OpenCL Example
-In this example, we would like to run the OpenCL code `./vadd` on a GPU.
+In this example, we would like to run the OpenCL code `./vadd` on a specific GPU.
+Use the table below to find the hostname of where the device is hosted.
+
+    ssh <node_name>
+    ./vadd
+
+Note: SLURM offers no way to choose specific accelerators in a node, only the node itself.
+You can specify to run on any device with `srun -n1 --gres=gpu:1 ./vadd`
 
 ### Batch job
 In this example, we would like to submit
