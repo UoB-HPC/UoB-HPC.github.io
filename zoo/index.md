@@ -94,7 +94,7 @@ Note: SLURM offers no way to choose specific accelerators in a node, only the no
 You can specify to run on any device with `srun -n1 --gres=gpu:1 ./vadd`
 
 ### Batch job
-In this example, we would like to submit
+Coming soon!
 
 # List of devices
 
