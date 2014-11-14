@@ -12,7 +12,34 @@ In order to test performance portability across a wide range of devices, we main
 - Use the general `make.def` file (same one as Dirac): `cp Make_def_files/dirac_linux_general.def make.def`
 - Upload your Solutions: `scp -r /path/to/your/folder <user>@hpc.cs.bris.ac.uk:~`
 - Check out [instructions](#opencl) on how to run on a node
+- The file `Cpp_common/device_picker.hpp` in the `OpenCL_SC14` folder provides you with a nice way to choose specific devices.
+  Follow this example code to allow you to use `./a.out --list` to list available OpenCL devices, and `./a.out --device n` to pick a specific device to run your code on. The example solution to exercise 05 through 08 give an example of it's usage.
 
+  ```C
+  #include <device_picker.h>
+  void main(int argc, char* argv[]) {
+      cl_uint deviceIntex = 0;
+      parseArguments(argc, argv, &deviceIndex);
+      // Get list of devices
+      std::vector<cl::Device> devices;
+      unsigned numDevices = getDeviceList(devices);
+      // Check device index in range
+      if (deviceIndex >= numDevices)
+      {
+      std::cout << "Invalid device index (try '--list')\n";
+      return EXIT_FAILURE;
+      }
+      cl::Device device = devices[deviceIndex];
+      std::string name;
+      getDeviceName(device, name);
+      std::cout << "\nUsing OpenCL device: " << name << "\n";
+      std::vector<cl::Device> chosen_device;
+      chosen_device.push_back(device);
+      cl::Context context(chosen_device);
+      cl::CommandQueue queue(context, device);
+  }
+  ```
+    
 # Access
 
 Access is via ssh using passwordless login. To access the zoo you will need to send us your preferred username and the **public** part of your ssh key.
