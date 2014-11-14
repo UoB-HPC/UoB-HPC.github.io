@@ -7,8 +7,8 @@ In order to test performance portability across a wide range of devices, we main
 
 ### Here from the SC14 tutorial: *OpenCL: A Hands on Introduction*?
 - Log in to the cluser with your allocted user name and passwords: `ssh <user>@hpc.cs.bris.ac.uk`
-- Copy the Exercises to your home directory: `cp -r ~tom/OpenCL_SC14/ .
-- Upload your Solutions: `scp -r /path/to/your/folder <user>@jpc.cs.bris.ac.uk:~
+- Copy the Exercises to your home directory: `cp -r ~tom/OpenCL_SC14/ .`
+- Upload your Solutions: `scp -r /path/to/your/folder <user>@jpc.cs.bris.ac.uk:~`
 - Check out [instructions](#opencl) on how to run on a node
 
 # Access
