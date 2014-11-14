@@ -90,14 +90,23 @@ Note, you don't specify the number of MPI tasks in the `mpirun` command.
     salloc: Job allocation 82 has been revoked.
 
 ### OpenCL Example <a name="opencl"></a>
-In this example, we would like to run the OpenCL code `./vadd` on a specific GPU.
-Use the table below to find the hostname of where the device is hosted.
+In this example, we would like to run the OpenCL code `./vadd` on a specific type of GPU.
 
-    ssh <node_name>
-    ./vadd
+To run on any single GPU: `srun -n1 --gres=gpu:1 ./vadd`
 
-Note: SLURM offers no way to choose specific accelerators in a node, only the node itself.
-You can specify to run on any device with `srun -n1 --gres=gpu:1 ./vadd`
+To run on 3 GPUs: `srun -n1 --gres=gpu:3 ./vadd`
+
+You are able to run on a different class of GPUs, such as vendor and HPC or consumer specific.
+To do this, select the relevant constraint in the `srun` command.
+A list of constraints is below.
+At present, you will be granted access to the whole node, which contains up to two GPUs.
+
+    srun -n1 --gres=gpu:1 --constraint=nvidia-server ./vadd
+
+- `--constraint=nvidia-server` - this has a K40 and a K20
+- `--constraint=nvidia-consumer` - this has a GTX980 and a GTX780Ti
+- `--constraint=amd-server` - this has an S10000, and an S9150
+- `--constraint=amd-consumer` - this has an R9 290X and a 7970
 
 ### Batch job
 Coming soon!
