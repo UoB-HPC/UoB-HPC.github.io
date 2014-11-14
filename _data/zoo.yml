@@ -34,18 +34,11 @@
 
 - device: Radeon HD 7970
   vendor: AMD
-  node: nowai
+  node: ohmai
   constraint: amd-consumer
 
 - device: Radeon R9 290X
   vendor: AMD
-  node: nowai
+  node: ohmai
   constraint: amd-consumer
 
-- device: Radeon HD 7900 Series
-  vendor: AMD
-  node: ohmai
-
-- device: AMD Radeon R9 200 Series
-  vendor: AMD
-  node: ohmai
