@@ -33,7 +33,7 @@
 
 - device: Radeon HD 7970
   vendor: AMD
-  constaint: amd-consumer
+  constraint: amd-consumer
 
 - device: Radeon R9 290X
   vendor: AMD
