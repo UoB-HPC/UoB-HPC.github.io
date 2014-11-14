@@ -87,8 +87,7 @@ Note, you don't specify the number of MPI tasks in the `mpirun` command.
     salloc: Relinquishing job allocation 82
     salloc: Job allocation 82 has been revoked.
 
-### OpenCL Example
-<a name="opencl"></a>
+### OpenCL Example <a name="opencl"></a>
 In this example, we would like to run the OpenCL code `./vadd` on a specific GPU.
 Use the table below to find the hostname of where the device is hosted.
 
