@@ -24,20 +24,22 @@
 
 - device: S10000
   vendor: AMD
+  node: nowai
   constraint: amd-server
 
 - device: Radeon S9 150
   vendor: AMD
-  node: 
+  node: nowai
   constraint: amd-server
 
 - device: Radeon HD 7970
   vendor: AMD
+  node: nowai
   constraint: amd-consumer
 
 - device: Radeon R9 290X
   vendor: AMD
-  node: 
+  node: nowai
   constraint: amd-consumer
 
 - device: Radeon HD 7900 Series
