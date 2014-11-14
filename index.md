@@ -27,7 +27,7 @@ We also offer training in parallel programming. Simon McIntosh-Smith is one of t
 - [BUDE](http://www.bris.ac.uk/biochemistry/research/bude)  
   A GPU accelerated molecular docking program that can be used to perform virtual drug screening, ligand binding site identification on protein surfaces, and protein-protein docking in real space. Collaboration with the School of Biochemistry.
 
-- [ROTORSIM]()
+- [ROTORSIM]()  
   An accelerated CFD code, originall developed by Prof. Chris Allen in the Department of Aerospace Engineering at the University of Bristol. ROTORSIM now includes a port to OpenCL in order to exploit many-core processors such as GPUs and the Intel Xeon Phi.
 
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
