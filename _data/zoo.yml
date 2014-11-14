@@ -1,37 +1,41 @@
 - device: Tesla K20
   vendor: NVIDIA
   node: yawai
+  constraint: nvidia-server
 
 - device: Tesla K40
   vendor: NVIDIA
   node: yawai
+  constraint: nvidia-server
 
 - device: GeForce GTX 980
   vendor: NVIDIA
   node: stahp
+  constraint: nvidia-consumer
 
 - device: GeForce GTX 780 Ti
   vendor: NVIDIA
   node: stahp
+  constraint: nvidia-consumer
 
 - device: GeForce GTX 680
   vendor: NVIDIA
   node: tldr (head node)
 
-- device: Radeon HD 7970
+- device: S10000
   vendor: AMD
-
-- device: Radeon R9 290X
-  vendor: AMD
-  node: nowai
+  constraint: amd-server
 
 - device: Radeon S9 150
   vendor: AMD
   node: nowai
+  constaint: amd-server
 
-- device: Radeon R9 295X2
+- device: Radeon HD 7970
   vendor: AMD
-  node: nameless machine
+  constaint: amd-consumer
 
-- device: Xeon Phi
-  vendor: Intel
+- device: Radeon R9 290X
+  vendor: AMD
+  node: nowai
+  constaint: amd-consumer
