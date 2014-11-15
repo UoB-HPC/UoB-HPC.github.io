@@ -22,12 +22,12 @@
   vendor: NVIDIA
   node: tldr (head node)
 
-- device: S10000
+- device: FirePro S10000
   vendor: AMD
   node: nowai
   constraint: amd-server
 
-- device: Radeon S9 150
+- device: FirePro S9150
   vendor: AMD
   node: nowai
   constraint: amd-server
