@@ -95,6 +95,23 @@ This then drops us down to a bash shell to run jobs interactively.
 To run a command on the prompt on **all** the nodes in the allocation, we need to  place `srun` at the start of each line: for example `srun ./a.out`.
 When we exit the bash shell the job will end.
 
+### OpenCL Example <a name="opencl"></a>
+In this example, we would like to run the OpenCL code `./vadd` on a specific type of GPU.
+
+To run on any single GPU: `srun -n1 --gres=gpu:1 ./vadd`
+
+You are able to run on a different class of GPUs, such as vendor and HPC or consumer specific.
+To do this, select the relevant constraint in the `srun` command.
+A list of constraints is below.
+At present, you will be granted access to the whole node, which contains up to two GPUs.
+
+    srun -n1 --gres=gpu:1 --constraint=nvidia-server ./vadd
+
+- `--constraint=nvidia-server` - this has a K40 and a K20
+- `--constraint=nvidia-consumer` - this has a GTX980 and a GTX780Ti
+- `--constraint=amd-server` - this has an S10000, and an S9150
+- `--constraint=amd-consumer` - this has an R9 290X and a 7970
+
 ### MPI Example
 In this example, we would like to interactively run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
 Firstly, we use `salloc` to allocate an interactive shell job comprising of 8 tasks.
@@ -116,24 +133,6 @@ Note, you don't specify the number of MPI tasks in the `mpirun` command.
     salloc: Relinquishing job allocation 82
     salloc: Job allocation 82 has been revoked.
 
-### OpenCL Example <a name="opencl"></a>
-In this example, we would like to run the OpenCL code `./vadd` on a specific type of GPU.
-
-To run on any single GPU: `srun -n1 --gres=gpu:1 ./vadd`
-
-To run on 3 GPUs: `srun -n1 --gres=gpu:3 ./vadd`
-
-You are able to run on a different class of GPUs, such as vendor and HPC or consumer specific.
-To do this, select the relevant constraint in the `srun` command.
-A list of constraints is below.
-At present, you will be granted access to the whole node, which contains up to two GPUs.
-
-    srun -n1 --gres=gpu:1 --constraint=nvidia-server ./vadd
-
-- `--constraint=nvidia-server` - this has a K40 and a K20
-- `--constraint=nvidia-consumer` - this has a GTX980 and a GTX780Ti
-- `--constraint=amd-server` - this has an S10000, and an S9150
-- `--constraint=amd-consumer` - this has an R9 290X and a 7970
 
 ### Batch job
 Coming soon!
