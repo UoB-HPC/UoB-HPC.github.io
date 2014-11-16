@@ -7,10 +7,10 @@ In order to test performance portability across a wide range of devices, we main
 
 # Here from the SC14 tutorial: *OpenCL: A Hands on Introduction*?
 - Log in to the cluser with your allocted user name and passwords: `ssh <user>@hpc.cs.bris.ac.uk`
-- Copy the Exercises to your home directory: `cp -r ~tom/OpenCL_SC14/ .`
-- `cd OpenCL_SC14`
+- You will need to copy some code to the zoo:
+    - Copy the Exercises and example Solutions to your home directory (run this command on the **zoo**): `cp -r ~tom/OpenCL_SC14/ .`
+    - Or, copy your Solutions from Dirac to the zoo (run this command on **Dirac**): `scp -r /path/to/your/folder <user>@hpc.cs.bris.ac.uk:~`
 - Use the general `make.def` file (same one as Dirac): `cp Make_def_files/dirac_linux_general.def make.def`
-- Upload your Solutions: `scp -r /path/to/your/folder <user>@hpc.cs.bris.ac.uk:~`
 - Check out [instructions](#opencl) on how to run on a node
 - The file `Cpp_common/device_picker.hpp` in the `OpenCL_SC14` folder provides you with a nice way to choose specific devices.
   Follow this example code to allow you to use `./a.out --list` to list available OpenCL devices, and `./a.out --device n` to pick a specific device to run your code on. The example solution to exercise 05 through 08 give an example of it's usage.
