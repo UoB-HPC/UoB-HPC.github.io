@@ -17,7 +17,7 @@ In order to test performance portability across a wide range of devices, we main
   Follow this example code to allow you to use `./a.out --list` to list available OpenCL devices, and `./a.out --device n` to pick a specific device to run your code on. The example solution to exercise 05 through 08 give an example of it's usage.
 
   ```C
-  #include <device_picker.h>
+  #include <device_picker.hpp>
   void main(int argc, char* argv[]) {
       cl_uint deviceIntex = 0;
       parseArguments(argc, argv, &deviceIndex);
