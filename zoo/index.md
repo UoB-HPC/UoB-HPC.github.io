@@ -125,7 +125,7 @@ If you receive an error like the following:
 
 Run a command to force the filesystem to update:
 
-    srun -n1 --gres=gpu:1 --constraint=nvidia-server touch ./vadd
+    srun -N4 touch ./vadd
 
 
 <!--
