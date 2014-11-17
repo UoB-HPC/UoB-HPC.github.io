@@ -6,10 +6,13 @@ title: HPC Zoo
 In order to test performance portability across a wide range of devices, we maintain a small cluster containing many different accelerator technologies.
 
 # Here from the SC14 tutorial: *OpenCL: A Hands on Introduction*?
-- Log in to the cluser with your allocted user name and passwords: `ssh <user>@hpc.cs.bris.ac.uk`
+- Log in to the cluser with your allocted user name and passwords:  
+        `ssh <user>@hpc.cs.bris.ac.uk`
 - You will need to copy some code to the zoo:
-    - Copy the Exercises and example Solutions to your home directory (run this command on the **zoo**): `cp -r ~tom/OpenCL_SC14/ .`
-    - Or, copy your Solutions from Dirac to the zoo (run this command on **Dirac**): `scp -r /path/to/your/folder <user>@hpc.cs.bris.ac.uk:~`
+    - Copy the Exercises and example Solutions to your home directory (run this command on the **zoo**):  
+      `cp -r ~tom/OpenCL_SC14/ .`
+    - Or, copy your Solutions from Dirac to the zoo (run this command on **Dirac**):  
+      `scp -r /path/to/your/folder <user>@hpc.cs.bris.ac.uk:~`
 - Use the general `make.def` file (same one as Dirac): `cp Make_def_files/dirac_linux_general.def make.def`
 - Check out [instructions](#opencl) on how to run on a node
 - The file `Cpp_common/device_picker.hpp` in the `OpenCL_SC14` folder provides you with a nice way to choose specific devices.
