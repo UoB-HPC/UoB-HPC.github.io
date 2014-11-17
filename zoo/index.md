@@ -19,7 +19,7 @@ In order to test performance portability across a wide range of devices, we main
   ```C
   #include <device_picker.hpp>
   void main(int argc, char* argv[]) {
-      cl_uint deviceIntex = 0;
+      cl_uint deviceIndex = 0;
       parseArguments(argc, argv, &deviceIndex);
       // Get list of devices
       std::vector<cl::Device> devices;
