@@ -117,17 +117,6 @@ At present, you will be granted access to the whole node, which contains up to t
 - `--constraint=amd-server` - this has an S10000, and an S9150
 - `--constraint=amd-consumer` - this has an R9 290X and a 7970
 
-
-If you receive an error like the following:
-
-    srun: error: nowai: task 0: Exited with exit code 2
-    slurmd[nowai]: error: execve(): /home/train36/OpenCL_SC14/Solutions/Exercise09/Cpp/./matmul: No such file or directory
-
-Run a command to force the filesystem to update:
-
-    srun -N4 touch ./vadd
-
-
 <!--
 ### MPI Example
 In this example, we would like to interactively run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
