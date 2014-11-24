@@ -43,15 +43,15 @@ In order to test performance portability across a wide range of devices, we main
     
 # Access
 
-<!--
+
 Access is via ssh using passwordless login. To access the zoo you will need to send us your preferred username and the **public** part of your ssh key.
--->
+
 Access during SC14 is via your supplied username and password.
 
 ## Cluster URL
 `hpc.cs.bris.ac.uk`
 
-<!--
+
 ## Generate public key
     $ ssh-keygen
     Generating public/private rsa key pair.
@@ -65,7 +65,7 @@ Note: the public key has extension `.pub` and the private key has *no* extension
 
 ## Connect
 `ssh <user>@hpc.cs.bris.ac.uk -i ~/.ssh/key`
--->
+
 # Available software
 
 - gcc 4.8.2
@@ -117,7 +117,7 @@ At present, you will be granted access to the whole node, which contains up to t
 - `--constraint=amd-server` - this has an S10000, and an S9150
 - `--constraint=amd-consumer` - this has an R9 290X and a 7970
 
-<!--
+
 ### MPI Example
 In this example, we would like to interactively run a simple 'Hello World' MPI job. We decide we will have 8 MPI tasks.
 Firstly, we use `salloc` to allocate an interactive shell job comprising of 8 tasks.
@@ -142,7 +142,7 @@ Note, you don't specify the number of MPI tasks in the `mpirun` command.
 
 ### Batch job
 Coming soon!
--->
+
 # List of devices
 
 Each of our devices is situated in a host machine, which have different CPUs.
