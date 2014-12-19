@@ -34,11 +34,16 @@
 
 - device: Radeon HD 7970
   vendor: AMD
-  node: ohmai
+  node: ohmai, umwat, awyiss
   constraint: amd-consumer
 
 - device: Radeon R9 290X
   vendor: AMD
   node: ohmai
+  constraint: amd-consumer
+
+- device: Radeon R9 295X2
+  vendor: AMD
+  node: umwat, awyiss
   constraint: amd-consumer
 
