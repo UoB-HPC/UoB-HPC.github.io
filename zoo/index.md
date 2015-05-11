@@ -12,6 +12,12 @@ Access is via ssh using passwordless login. To access the zoo you will need to s
 
 Access during SC14 is via your supplied username and password.
 
+# Here from IWOCL15?
+
+Just use the username and password we gave you to connect.
+No need to use the queue system, so just ssh into the nodes.
+The list of node names is at the bottom of this page.
+
 ## Cluster URL
 `hpc.cs.bris.ac.uk`
 
