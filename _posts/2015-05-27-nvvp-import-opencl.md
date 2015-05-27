@@ -6,10 +6,10 @@ author: James Price
 
 NVIDIA have a [visual profiler (NVVP)](https://developer.nvidia.com/nvidia-visual-profiler) which *used* to be a fantastic tool for analyzing OpenCL applications running on NVIDIA GPUs.
 Unfortunately, as NVIDIA let their OpenCL support stagnate, the OpenCL portion of NVVP has ceased to function (the CUDA side of this tool was kept up-to-date, of course).
-This has been the case for several years now, although we remain optimistic that this situation will change (for the better) in the near future, now that NVIDIA seem to back on the OpenCL bandwagon.
+This has been the case for several years now, although we remain optimistic that this situation will change (for the better) in the near future, now that NVIDIA seem to be back on the OpenCL bandwagon.
 
 In the meantime, we've found a way of continuing to use NVVP for visualising OpenCL application timelines, as well as displaying a few other basic OpenCL kernel performance metrics.
-This is possible by using the little-known [Command Line Profiler](http://docs.nvidia.com/cuda/profiler-users-guide/#compute-command-line-profiler-overview) functionality in NVIDIA's drivers.
+This is possible by using the little-known [Command-line Profiler](http://docs.nvidia.com/cuda/profiler-users-guide/#compute-command-line-profiler-overview) functionality in NVIDIA's drivers.
 This profiling tool is controlled via a set of environment variables, which instruct the driver to collect a small set of metrics for each OpenCL command enqueued to a device.
 
 To enable the profiler, we simply set the following environment variable:
@@ -93,7 +93,7 @@ What happens if we just replace these `OPENCL_` tags with `CUDA_` tags?
     sed 's/OPENCL_/CUDA_/g' opencl_profile_0.log >cuda_profile_0.log
 
 On Windows, a simple find-replace in notepad will also do the trick.
-I've named to the new log `cuda_profile_0.log` just for kicks.
+I've named the new log `cuda_profile_0.log` just for kicks.
 
 Now we go back to NVVP and go through the same `File`->`Import...`->`Command-line Profiler` sequence, and...
 
@@ -118,7 +118,7 @@ We can amend this by adding to the config file we created earlier:
     regperthread
     memtransfersize
 
-The set of metrics you add to this config file are listed [here](http://docs.nvidia.com/cuda/profiler-users-guide/#command-line-profiler-options).
+The set of metrics you can add to this config file are listed [here](http://docs.nvidia.com/cuda/profiler-users-guide/#command-line-profiler-options).
 There's a few more substitutions we need to make to the log now, to convert some OpenCL terminology into CUDA terminology.
 Here's the SED script that I used:
 
