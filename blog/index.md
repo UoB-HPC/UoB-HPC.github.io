@@ -16,6 +16,10 @@ by
 on <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
 **{{ post.date | date_to_string }}**
 </time>
-{{ post.content }}
+{{ post.content | truncatewords:128 }}
+
+<a href="{{ site.baseurl }}{{ post.url }}">
+  (read full post)
+</a>
 
 {% endfor %}
