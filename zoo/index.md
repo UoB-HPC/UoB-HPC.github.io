@@ -126,7 +126,7 @@ Each of our devices is situated in a host machine, which have different CPUs.
 <tr><td>awyiss</td><td>Intel Core i5-4590 CPU @ 3.30GHz</td><td>Haswell</td><td>4</td><td>32 GB</td></tr>
 <tr><td>ohmai</td><td>Intel Core i5-4590 CPU @ 3.30GHz</td><td>Haswell</td><td>4</td><td>32 GB</td></tr>
 <tr><td>stahp</td><td>Intel Core i5-4590 CPU @ 3.30GHz</td><td>Haswell</td><td>4</td><td>32 GB</td></tr>
-<tr><td>umwat</td><td>Intel Core i5-4590 CPU @ 3.30GHz</td><td>Haswell</td><td>4</td><td>32 GB</td></tr>
+<tr><td>umwat</td><td>Intel Core i5-3550 CPU @ 3.30GHz</td><td>Ivy Bridge</td><td>4</td><td>12 GB</td></tr>
 
 </table>
 
