@@ -8,7 +8,7 @@
   node: yawai
   constraint: nvidia-server
 
-- device: GeForce GTX 980
+- device: GeForce GTX 980 Ti
   vendor: NVIDIA
   node: stahp
   constraint: nvidia-consumer
@@ -24,22 +24,17 @@
 
 - device: FirePro S10000
   vendor: AMD
-  node: nowai
+  node: awyiss
   constraint: amd-server
 
 - device: FirePro S9150
   vendor: AMD
-  node: nowai
+  node: rekt
   constraint: amd-server
-
-- device: Radeon HD 7970
-  vendor: AMD
-  node: ohmai, umwat, awyiss
-  constraint: amd-consumer
 
 - device: Radeon R9 290X
   vendor: AMD
-  node: ohmai
+  node: umwat
   constraint: amd-consumer
 
 - device: Radeon R9 295X2
@@ -47,3 +42,12 @@
   node: umwat, awyiss
   constraint: amd-consumer
 
+- device: GTX 980
+  vendor: NVIDIA
+  node: ohmai
+  constraint: nvidia-consumer
+  
+- device: GTX 580
+  vendor: NVIDIA
+  node: ohmai
+  constraint: nvidia-consumer
