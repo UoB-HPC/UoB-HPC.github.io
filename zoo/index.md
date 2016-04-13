@@ -32,14 +32,12 @@ Each of our devices is situated in a host machine, which have different CPUs.
 <th>Device</th>
 <th>Vendor</th>
 <th>Node</th>
-<th>Constraint to use</th>
 </tr>
 {% for device in site.data.zoo %}
 <tr>
 <td>{{ device.device }}</td>
 <td>{{ device.vendor }}</td>
 <td>{{ device.node }}</td>
-<td>{{ device.constraint }}</td>
 </tr>
 {% endfor %}
 </table>
