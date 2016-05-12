@@ -29,12 +29,12 @@
   date: 2015
   reference: Poster session presented at Poster session presented at IEEE/ACM SuperComputing, Austin, United States.
 
-- title: GPU-STREAM: Benchmarking the achievable memory bandwidth of Graphics Processing Units
+- title: "GPU-STREAM: Benchmarking the achievable memory bandwidth of Graphics Processing Units"
   authors: ['Deakin, Tom', 'McIntosh-Smith, Simon']
   date: 2015
   reference: Poster session presented at IEEE/ACM SuperComputing, Austin, United States.
 
-- title: OpenMP 4.0 vs. OpenCL: Performance comparison
+- title: "OpenMP 4.0 vs. OpenCL: Performance comparison"
   authors: ['Vinogradov, Sergei', 'Fedorova, Julia', 'Curran, Daniel', 'McIntosh-Smith, Simon', 'Cownie, James']
   date: 2015
   reference: The OpenMP Developers Conference (OpenMPCon), Aachen, Germany.
