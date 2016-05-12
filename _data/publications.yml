@@ -42,12 +42,12 @@
 - title: Exploiting spatial information in datasets to enable fault tolerant sparse matrix solvers
   authors: ['Hunt, Rob', 'McIntosh-Smith, Simon']
   date: 2015
-  reference: IEEE International Conference on Cluster Computing: Fault Tolerant Systems Workshop.
+  reference: "IEEE International Conference on Cluster Computing: Fault Tolerant Systems Workshop"
 
 - title: Expressing Parallelism on Many-Core for Deterministic Discrete Ordinates Transport
   authors: ['Deakin, Tom', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
   date: 2015
-  reference: IEEE International Conference on Cluster Computing: Workshop on Representative Applications
+  reference: "IEEE International Conference on Cluster Computing: Workshop on Representative Applications"
 
 - title: Developing a Future-Proof CFD Code
   authors: ['Curran, Daniel', 'McIntosh-Smith, Simon N', 'Allen, Christian B', 'Beckingsale, D.A.']
