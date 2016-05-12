@@ -6,12 +6,12 @@
 
 - title: Many-core Acceleration of a Discrete Ordinates Transport Mini-app at Extreme Scale
   authors: ['Deakin, Tom', 'McIntosh-Smith, Simon N', 'Gaudin, Wayne']
-  year: 2016
+  date: 2016
   reference: High Performance Computing, Networking and Storage - 30th International Conference, ISC High Performance 2016, Frankfurt, Germany. Springer Verlag (Lecture Notes in Computer Science).
 
 - title: Evaluating OpenMP 4.0s Effectiveness as a Heterogeneous Parallel Programming Modes
   authors: ['Martineau, Matt', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
-  year: 2016
+  date: 2016
   reference: 21st International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS), Chicago, United States.
 
 - title: Towards Portability for a Compressible Finite-Volume CFD Code
