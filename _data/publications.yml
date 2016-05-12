@@ -70,7 +70,7 @@
   date: 2015
   reference: Proceedings of IEEE 9th International Symposium on Embedded Multicore/Many-core Systems-on-Chip. IEEE Computer Society, 2015. p. 211-218.
 
-- title: Oclgrind: An Extensible OpenCL Device Simulator
+- title: "Oclgrind: An Extensible OpenCL Device Simulator"
   authors: ['Price, James R', 'McIntosh-Smith, Simon N.']
   date: 2015
   reference: IWOCL, Palo Alto, United States.
