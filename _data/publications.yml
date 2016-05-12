@@ -83,7 +83,7 @@
 - title: Portable performance with OpenCL
   authors: ['McIntosh-Smith, S. N.', 'Mattson, T.']
   date: 2014
-  reference: J Reinders & J Jeffers (eds), High Performance Parallelism Pearls: Multicore and Many-core Programming Approaches. Morgan Kaufmann, pp. 359--375.
+  reference: "J Reinders & J Jeffers (eds), High Performance Parallelism Pearls: Multicore and Many-core Programming Approaches. Morgan Kaufmann, pp. 359--375."
 
 - title: On the performance portability of structured grid codes on many-core computer architectures
   authors: ['McIntosh-Smith, S. N.', 'Boulton, M.', 'Curran, D.', 'Price, J. R.']
