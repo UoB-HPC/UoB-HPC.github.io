@@ -10,3 +10,4 @@ title: About
 * [Tom Deakin](http://www.tomdeakin.com)
 * Mike O'Connor
 * James Price
+* Matt Martineau
