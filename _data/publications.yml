@@ -1,3 +1,90 @@
+
+- title: An Evaluation of Emerging Many-Core Parallel Programming Models
+  authors: ['Martineau, Matt J', 'McIntosh-Smith, Simon N', 'Gaudin, Wayne', 'Boulton, Michael']
+  date: 2016
+  reference: Proceedings of the 7th International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM'16). ed. Pavan Balaji; Kai-Cheung Leung. Association for Computing Machinery
+
+- title: Many-core Acceleration of a Discrete Ordinates Transport Mini-app at Extreme Scale
+  authors: ['Deakin, Tom', 'McIntosh-Smith, Simon N', 'Gaudin, Wayne']
+  year: 2016
+  reference: High Performance Computing, Networking and Storage: 30th International Conference, ISC High Performance 2016, Frankfurt, Germany. Springer Verlag (Lecture Notes in Computer Science).
+
+- title: Evaluating OpenMP 4.0s Effectiveness as a Heterogeneous Parallel Programming Modes
+  authors: ['Martineau, Matt', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
+  year: 2016
+  reference: 21st International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS), Chicago, United States.
+
+- title: Towards Portability for a Compressible Finite-Volume CFD Code
+  authors: ['Curran, Daniel', 'Allen, Christian B', 'McIntosh-Smith, Simon']
+  date: 2016
+  reference: 54th AIAA Aerospace Sciences Meeting. American Institute of Aeronautics and Astronautics. AIAA 2016-1813.
+
+- title: Application-Based Fault Tolerance Techniques for Sparse Matrix Solvers
+  authors: ['McIntosh-Smith, Simon', 'Hunt, Rob', 'Price, James', 'Vesztrocy, Alex']
+  date: 2016
+  reference: International Journal of High Performance Computing Applications
+
+- title: A Performance Evaluation of Kokkos & RAJA using the TeaLeaf Mini-App
+  authors: ['Martineau, Matt J', 'McIntosh-Smith, Simon', 'Gaudin, Wayne', 'Boulton, Michael', 'Beckingsale, D.A']
+  date: 2015
+  reference: Poster session presented at Poster session presented at IEEE/ACM SuperComputing, Austin, United States.
+
+- title: GPU-STREAM: Benchmarking the achievable memory bandwidth of Graphics Processing Units
+  authors: ['Deakin, Tom', 'McIntosh-Smith, Simon']
+  date: 2015
+  reference: Poster session presented at IEEE/ACM SuperComputing, Austin, United States.
+
+- title: OpenMP 4.0 vs. OpenCL: Performance comparison
+  authors: ['Vinogradov, Sergei', 'Fedorova, Julia', 'Curran, Daniel', 'McIntosh-Smith, Simon', 'Cownie, James']
+  date: 2015
+  reference: The OpenMP Developers Conference (OpenMPCon), Aachen, Germany.
+
+- title: Exploiting spatial information in datasets to enable fault tolerant sparse matrix solvers
+  authors: ['Hunt, Rob', 'McIntosh-Smith, Simon']
+  date: 2015
+  reference: IEEE International Conference on Cluster Computing: Fault Tolerant Systems Workshop.
+
+- title: Expressing Parallelism on Many-Core for Deterministic Discrete Ordinates Transport
+  authors: ['Deakin, Tom', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
+  date: 2015
+  reference: IEEE International Conference on Cluster Computing: Workshop on Representative Applications
+
+- title: Developing a Future-Proof CFD Code
+  authors: ['Curran, Daniel', 'McIntosh-Smith, Simon N', 'Allen, Christian B', 'Beckingsale, D.A.']
+  date: 2015
+  reference: ParCFD, Montreal, Canada.
+
+- title: High dynamic range computational photography on mobile GPUs
+  authors: ['McIntosh-Smith, Simon N', 'Chohan, Amir', 'Curran, Daniel', 'Lokhmotov, Anton']
+  date: 2015
+  reference: GPU Pro 6 - Advanced Rendering Techniques. ed. Wolfgang Engel
+
+
+- title: High performance in silico virtual drug screening on many-core processors
+  authors: ['McIntosh-Smith, Simon N', 'Price, James R', 'Sessions, Richard B', 'Avila Ibarra, Amaurys']
+  date: 2015
+  reference: International Journal of High Performance Computing Applications, Vol. 29, No. 2, 05.2015, p. 119-134.
+
+- title: Improving Auto-Tuning Convergence Times with Dynamically Generated Predictive Performance Models
+  authors: ['Price, James', 'McIntosh-Smith, Simon']
+  date: 2015
+  reference: Proceedings of IEEE 9th International Symposium on Embedded Multicore/Many-core Systems-on-Chip. IEEE Computer Society, 2015. p. 211-218.
+
+- title: Oclgrind: An Extensible OpenCL Device Simulator
+  authors: ['Price, James R', 'McIntosh-Smith, Simon N.']
+  date: 2015
+  reference: IWOCL, Palo Alto, United States.
+
+- title: The OPS Domain Specific Abstraction for Multi-Block Structured Grid Computations
+  authors: ['Reguly, Istvan', 'Mudalige, Gihan', 'Giles, Michael', 'Curran, Daniel', 'McIntosh-Smith, Simon N.']
+  date: 2014
+  reference: IEEE/ACM SuperComputing, New Orleans, United States.
+
+- title: Portable performance with OpenCL
+  authors: ['McIntosh-Smith, S. N.', 'Mattson, T.']
+  date: 2014
+  reference: J Reinders & J Jeffers (eds), High Performance Parallelism Pearls: Multicore and Many-core Programming Approaches. Morgan Kaufmann, pp. 359--375.
+
 - title: On the performance portability of structured grid codes on many-core computer architectures
   authors: ['McIntosh-Smith, S. N.', 'Boulton, M.', 'Curran, D.', 'Price, J. R.']
   date: Jun 2014
@@ -121,4 +208,3 @@
   authors: ['McIntosh-Smith, S. N.', 'Brown, M.', 'Hurley, S.']
   date: 24 Apr 1994
   reference: p. 47-56
-
