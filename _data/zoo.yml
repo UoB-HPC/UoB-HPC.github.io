@@ -51,3 +51,7 @@
   vendor: NVIDIA
   node: ohmai
   constraint: nvidia-consumer
+
+- device: Fury X
+  vendor: AMD
+  node: unknown
