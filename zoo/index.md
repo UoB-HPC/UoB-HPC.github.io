@@ -31,13 +31,11 @@ Each of our devices is situated in a host machine, which have different CPUs.
 <tr>
 <th>Device</th>
 <th>Vendor</th>
-<th>Node</th>
 </tr>
 {% for device in site.data.zoo %}
 <tr>
 <td>{{ device.device }}</td>
 <td>{{ device.vendor }}</td>
-<td>{{ device.node }}</td>
 </tr>
 {% endfor %}
 </table>
