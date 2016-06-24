@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Publications
+permalink: /publications/
 ---
 
 {% for pub in site.data.publications %}
@@ -9,3 +11,4 @@ title: Publications
 {{ pub.reference }}
 
 {% endfor %}
+

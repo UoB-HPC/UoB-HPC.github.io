@@ -1,40 +1,20 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  {%  include head.html %}
-</head>
+  {% include head.html %}
 
-{% include google_analytics.html %}
+  <body>
 
-<body>
-  <div id="container">
-    <div class="inner">
-      <header>
-        <h1><a href="{{ site.url }}/">{{ site.name }}</a></h1>
-        <h2>{{ site.author }}</h2>
-      </header>
+    {% include header.html %}
 
-      {%  include download.html %}
-      <hr/>
-
-      <section id="navigation">
-        <nav><ul>
-        {% assign pages = site.pages | sort:'title' | sort:'weight' %}
-        {% for page in pages %}
-          <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-        </ul></nav>
-      </section>
-
-      <section id="main_content">
+    <div class="page-content">
+      <div class="wrapper">
         {{ content }}
-      </section>
-      <footer>
-        {%  include footer.html %}
-      </footer>
+      </div>
     </div>
-  </div>
-</body>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>

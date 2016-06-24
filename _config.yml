@@ -1,14 +1,22 @@
-name: High Performance Computing Group
-author: University of Bristol
-markdown: redcarpet
-pygments: true
-permalink: pretty
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      weight: 1
-      layout: page
+# Site settings
+title: High Performance Computing - University of Bristol
+email: simonm@cs.bris.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  The High Performance Computing group, led by Simon McIntosh-Smith, is part of
+  the Microelectronics Research Group in the Department of Computer Science at
+  the University of Bristol.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://uob-hpc.github.io" # the base hostname & protocol for your site
+twitter_username: simonmcs
+github_username:  uob-hpc
+
+# Build settings
+markdown: kramdown
+
