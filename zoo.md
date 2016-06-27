@@ -11,17 +11,21 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 
 ## Contents
 
-| Name              | Class         | Info  |
-| ------------------|:--------------| ------|
-| NVIDIA K20m       | HPC GPU       |       |
-| NVIDIA K40m       | HPC GPU       |       |
-| NVIDIA GTX 580    | Consumer GPU  |       |
-| NVIDIA GTX 680    | Consumer GPU  |       |
-| NVIDIA GTX 980 Ti | Consumer GPU  |       |
-| AMD S9150         | HPC GPU       |       |
-| AMD S10000        | HPC GPU       |       |
-| AMD Fury X        | Consumer GPU  |       |
-| Ivy Bridge        | Server CPU    |       |
+| Name                    | Class         | Info       |
+| ------------------------|:--------------| -----------|
+| NVIDIA K20m             | HPC GPU       | Kepler     |
+| NVIDIA K40m             | HPC GPU       | Kepler     |
+| NVIDIA GTX 580          | Consumer GPU  | Fermi      |
+| NVIDIA GTX 680          | Consumer GPU  | Kepler     |
+| NVIDIA GTX 780 Ti       | Consumer GPU  | Kerper     |
+| NVIDIA GTX 980 Ti       | Consumer GPU  | Maxwell    |
+| AMD S9150               | HPC GPU       | Hawaii     |
+| AMD S10000              | HPC GPU       | Tahiti     |
+| AMD HD7970              | Consumer GPU  | Tahiti     |
+| AMD R9-295X2            | Consumer GPU  | Hawaii     |
+| AMD Fury X              | Consumer GPU  | Fiji       |
+| Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge |
+| AMD A10-7850K Radeon R7 | APU           | Kavari     |
 
 ## Documentation
 
@@ -47,4 +51,7 @@ You can launch an interactive job requesting the gpu `<name>` (all lower case) u
 
     qsub -lnodes=1:gpus=1:<name> -I
 
+For example, to run on the K20 GPU:
+
+    qsub -lnodes=1:gpus=1:k20 -I
 
