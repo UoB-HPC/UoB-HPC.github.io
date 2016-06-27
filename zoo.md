@@ -11,21 +11,21 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 
 ## Contents
 
-| Name                    | Class         | Architecture | Queue command          |
-| ------------------------|:--------------| -------------|------------------------|
-| NVIDIA K20m             | HPC GPU       | Kepler       | `-lnodes=1:gpus=1:k20` |
-| NVIDIA K40m             | HPC GPU       | Kepler       |
-| NVIDIA GTX 580          | Consumer GPU  | Fermi        |
-| NVIDIA GTX 680          | Consumer GPU  | Kepler       |
-| NVIDIA GTX 780 Ti       | Consumer GPU  | Kerper       |
-| NVIDIA GTX 980 Ti       | Consumer GPU  | Maxwell      |
-| AMD S9150               | HPC GPU       | Hawaii       |
-| AMD S10000              | HPC GPU       | Tahiti       |
-| AMD HD7970              | Consumer GPU  | Tahiti       |
-| AMD R9-295X2            | Consumer GPU  | Hawaii       |
-| AMD Fury X              | Consumer GPU  | Fiji         |
-| Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   |
-| AMD A10-7850K Radeon R7 | APU           | Kavari       |
+| Name                    | Class         | Architecture | Queue command                |
+| ------------------------|:--------------| -------------|------------------------------|
+| NVIDIA K20m             | HPC GPU       | Kepler       | `-lnodes=1:gpus=1:k20`       |
+| NVIDIA K40m             | HPC GPU       | Kepler       | `-lnodes=1:gpus=1:k40`       |
+| NVIDIA GTX 580          | Consumer GPU  | Fermi        | `-lnodes=1:gpus=1:gtx580`    |
+| NVIDIA GTX 680          | Consumer GPU  | Kepler       | `-lnodes=1:gpus=1:gtx680`    |
+| NVIDIA GTX 780 Ti       | Consumer GPU  | Kerper       | `-lnodes=1:gpus=1:gtx780ti`  |
+| NVIDIA GTX 980 Ti       | Consumer GPU  | Maxwell      | `-lnodes=1:gpus=1:gtx980ti`  |
+| AMD S9150               | HPC GPU       | Hawaii       | `-lnodes=1:gpus=1:?`         |
+| AMD S10000              | HPC GPU       | Tahiti       | `-lnodes=1:gpus=1:?`         |
+| AMD HD7970              | Consumer GPU  | Tahiti       | `-lnodes=1:gpus=1:hd7970`    |
+| AMD R9-295X2            | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-r95x2`  |
+| AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:?`         |
+| Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   | `-lnodes=1:gpus=1:ivybridge` |
+| AMD A10-7850K Radeon R7 | APU           | Kavari       | `-lnodes=1:gpus=1:?`         |
 
 ## Documentation
 
