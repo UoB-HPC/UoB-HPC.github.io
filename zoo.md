@@ -23,7 +23,8 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 | AMD S10000              | HPC GPU       | Tahiti       | `-lnodes=1:gpus=1:?`         |
 | AMD HD7970              | Consumer GPU  | Tahiti       | `-lnodes=1:gpus=1:hd7970`    |
 | AMD R9-295X2            | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-295x2`  |
-| AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:?`         |
+| AMD R9-290X             | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-290x`   |
+| AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:furyx`     |
 | Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   | `-lnodes=1:gpus=1:ivybridge` |
 | AMD A10-7850K Radeon R7 | APU           | Kavari       | `-lnodes=1:gpus=1:?`         |
 
