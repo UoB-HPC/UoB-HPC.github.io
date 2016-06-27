@@ -51,7 +51,12 @@ You can launch an interactive job requesting the gpu `<name>` (all lower case) u
 
     qsub -lnodes=1:gpus=1:<name> -I
 
-For example, to run on the K20 GPU:
+You can specify any NVIDIA or AMD gpu using the following:
 
-    qsub -lnodes=1:gpus=1:k20 -I
+    qsub -lnodes=1:gpus=1:nvidia -I
+    qsub -lnodes=1:gpus=1:amd -I
+
+You can also request by architecture, for example:
+
+    qsub -lnodes=1:gpus=1:kepler
 
