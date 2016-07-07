@@ -17,7 +17,7 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 | NVIDIA K40m             | HPC GPU       | Kepler       | `-lnodes=1:gpus=1:k40`       |
 | NVIDIA GTX 580          | Consumer GPU  | Fermi        | `-lnodes=1:gpus=1:gtx580`    |
 | NVIDIA GTX 680          | Consumer GPU  | Kepler       | `-lnodes=1:gpus=1:gtx680`    |
-| NVIDIA GTX 780 Ti       | Consumer GPU  | Kerper       | `-lnodes=1:gpus=1:gtx780ti`  |
+| NVIDIA GTX 780 Ti       | Consumer GPU  | Kepler       | `-lnodes=1:gpus=1:gtx780ti`  |
 | NVIDIA GTX 980 Ti       | Consumer GPU  | Maxwell      | `-lnodes=1:gpus=1:gtx980ti`  |
 | AMD S9150               | HPC GPU       | Hawaii       | `-lnodes=1:gpus=1:s9150`     |
 | AMD S10000              | HPC GPU       | Tahiti       | Unavailable                  |
