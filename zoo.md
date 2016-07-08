@@ -27,7 +27,7 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 | AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:furyx`     |
 | Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   | `-lnodes=1:ppn=24:ivybridge` |
 | AMD A10-7850K Radeon R7 | APU           | Kaveri       | `-lnodes=1:kaveri`           |
-| Intel Xeon Phi 7210     | MIC           | KNL          | Unavailable                  |
+| Intel Xeon Phi 7210     | MIC           | KNL          | `-lnodes=1:ppn=256:knl`      |
 
 When running on the KNL, please see [additional documentation](/2016/06/06/knl.html).
 
