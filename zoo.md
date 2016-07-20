@@ -45,6 +45,15 @@ Load a module: `module load <name>`
 
 Unload a module: `module unload <name>`
 
+#### MPI
+We have a selection of MPI builds installed for a variety of circumstances.
+It is recommended to have only one MPI module loaded at once to prevent interference.
+
+The Intel modules include the Intel MPI library.
+
+OpenMPI is built in a number of flavours. Unless a compiler version is specified they use the default
+GCC v4.8.4 compilers.
+
 ### Running jobs
 
 We use the TORQUE (PBS) queueing system to manage job allocations of the cluster.
