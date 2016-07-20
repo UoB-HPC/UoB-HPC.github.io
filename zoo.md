@@ -45,9 +45,7 @@ Load a module: `module load <name>`
 
 Unload a module: `module unload <name>`
 
-
-#### MPI
-
+#### MPI
 We have a selection of MPI builds installed for a variety of circumstances.
 It is recommended to have only one MPI module loaded at once to prevent interference.
 
