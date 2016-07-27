@@ -58,6 +58,10 @@ GCC v4.8.4 compilers.
 
 We use the TORQUE (PBS) queueing system to manage job allocations of the cluster.
 
+List the nodes and their current availability by running
+
+    znodes
+
 #### Interactive job
 
 You can launch an interactive job requesting the gpu `<name>` (all lower case) using
