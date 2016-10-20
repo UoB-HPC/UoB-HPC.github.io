@@ -16,5 +16,8 @@ permalink: /about/
 * Mike O'Connor
 * Matt Martineau
 {% include icon-github.html username="mattmartineau" %}
+* Grzegorz George Pawelczak
+{% include icon-github.html username="georgepaw" %}
+* Patrick Atkinson
 * Dan Curran
 
