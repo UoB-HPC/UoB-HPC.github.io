@@ -19,6 +19,9 @@ permalink: /projects/
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
   An extensible OpenCL device simulator that provides a platform with which various OpenCL developer tools can be created. Includes support for detecting memory access errors, race conditions, work-group divergence, and provides an interactive debugging environment.
 
+- [GPU-STREAM](http://uob-hpc.github.io/GPU-STREAM/)
+  A benchmark used to measure memory bandwidth, in a wide variety of programming models.
+
 - Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
   An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php), [DockLeaf](http://uk-mac.github.io/DockLeaf/) and [PalmLeaf](http://uk-mac.github.io/PalmLeaf/).
 
