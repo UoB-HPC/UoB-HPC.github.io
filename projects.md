@@ -23,10 +23,7 @@ permalink: /projects/
   A benchmark used to measure memory bandwidth, in a wide variety of programming models.
 
 - Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
-  An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php), [DockLeaf](http://uk-mac.github.io/DockLeaf/) and [PalmLeaf](http://uk-mac.github.io/PalmLeaf/).
-
-- [TeaLeaf](http://uk-mac.github.io/TeaLeaf/) and [TeaLeaf 3D](http://uk-mac.github.io/TeaLeaf3D/)  
-  Matrix free linear solver. A heat conduction benchmark, part of the [Mantevo Project](https://mantevo.org/).
+  An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php).
 
 - [CloverLeaf](http://uk-mac.github.io/CloverLeaf/) and [CloverLeaf 3D](http://uk-mac.github.io/CloverLeaf3D/)  
   A Lagrangian-Eulerian hydrodynamics benchmark, part of the [Mantevo Project](https://mantevo.org/).
