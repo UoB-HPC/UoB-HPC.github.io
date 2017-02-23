@@ -1,4 +1,9 @@
 
+- title: "Software-level Fault Tolerant Framework for Task-based Applications"
+  authors: ['Yeh, J', 'Pawelczak, G', 'Sewart, J', 'Price, J', 'Avila Ibarra, A', 'McIntosh-Smith, S', 'Bautista-Gomez, L', 'Zyulkyarov, F']
+  date: 2016
+  reference: Poster session presented at IEEE/ACM SuperComputing, Salt Lake City, Utah, United States.
+
 - title: "GPU-STREAM: Now in 2D!"
   authors: ['Deakin, T', 'Price, J', 'Martineau, M', 'McIntosh-Smith, S']
   date: 2016
