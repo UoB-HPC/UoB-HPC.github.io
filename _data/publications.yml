@@ -29,6 +29,11 @@
   date: 2016
   reference: 54th AIAA Aerospace Sciences Meeting. American Institute of Aeronautics and Astronautics. AIAA 2016-1813.
 
+- title: An improved parallelism scheme for deterministic discrete ordinates transport
+  authors: ["Deakin, Tom", "McIntosh-Smith, Simon", "Martineau, Matt", "Gaudin, Wayne"]
+  date: 2016
+  reference: International Journal of High Performance Computing Applications
+
 - title: Application-Based Fault Tolerance Techniques for Sparse Matrix Solvers
   authors: ['McIntosh-Smith, Simon', 'Hunt, Rob', 'Price, James', 'Vesztrocy, Alex']
   date: 2016
