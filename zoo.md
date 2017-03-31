@@ -27,7 +27,7 @@ Access is by [request](mailto:tom.deakin@bristol.ac.uk).
 | AMD R9-295X2            | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-295x2`  |
 | AMD R9-290X             | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-290x`   |
 | AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:furyx`     |
-| AMD RX 480              | Consumer GPU  | Polaris      | Coming soon                  |
+| AMD RX 480              | Consumer GPU  | Polaris      | `-lnodes=1:gpus=1:rx480`     |
 | Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   | `-lnodes=1:ppn=24:ivybridge` |
 | AMD A10-7850K Radeon R7 | APU           | Kaveri       | `-lnodes=1:kaveri`           |
 | Intel Xeon Phi 7210     | MIC           | KNL          | `-lnodes=1:ppn=256:knl`      |
