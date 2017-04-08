@@ -19,7 +19,7 @@ permalink: /projects/
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
   An extensible OpenCL device simulator that provides a platform with which various OpenCL developer tools can be created. Includes support for detecting memory access errors, race conditions, work-group divergence, and provides an interactive debugging environment.
 
-- [GPU-STREAM](http://uob-hpc.github.io/GPU-STREAM/)
+- [BabelStream](http://uob-hpc.github.io/BabelStream/)
   A benchmark used to measure memory bandwidth, in a wide variety of programming models.
 
 - Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
