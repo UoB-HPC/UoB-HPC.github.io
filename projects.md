@@ -22,6 +22,9 @@ permalink: /projects/
 - [BabelStream](http://uob-hpc.github.io/BabelStream/)
   A benchmark used to measure memory bandwidth, in a wide variety of programming models.
 
+- [MEGA-STREAM](http://github.com/uk-mac/mega-stream)
+  A benchmark used to investigate why streaming many arrays (with different sizes) causes memory bandwidth limits not to be reached; resulting in latency becoming a dominant factor.
+
 - Leveraging Multi-Core Technology for Deterministic Neutral Particle Transport at Extreme Scale  
   An investigation into the parallelism of the Sn transport algorithm on an unstructured, domain decomposed mesh, at the core, node and interconnect level (including accelerated devices such as GPUs) using proxy apps including [SNAP](http://www.lanl.gov/projects/feynman-center/technologies/software/snap-sn.php).
 
