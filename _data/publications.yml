@@ -1,3 +1,8 @@
+- title: "On the mitigation of cache hostile memory access patterns on many-core CPU architectures"
+  authors: ['Deakin, T', 'Gaudin, W', 'McIntosh-Smith, S']
+  date: 2017
+  reference: High Performance Computing. ISC High Performance 2017. Intel Xeon Phi User Group workshop.
+
 - title: "Evaluating Attainable Memory Bandwidth of Parallel Programming Models via BabelStream"
   authors: ['Deakin, T', 'Price, J', 'Martineau, M', 'McIntosh-Smith, S']
   date: 2017
