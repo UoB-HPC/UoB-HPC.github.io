@@ -1,3 +1,8 @@
+- title: "The Productivity, Portability and Performance of OpenMP 4.5 for Scientific Applications Targeting Intel CPUs, IBM CPUs, and NVIDIA GPUs"
+  authors: ['Martineau, Matt', 'McIntosh-Smith, Simon']
+  date: 2017
+  reference: Proceedings of 13th International Workshop on OpenMP, NY, USA.
+
 - title: "Exploiting auto-tuning to analyze and improve performance portability on many-core architectures"
   authors: ['Price, J', 'McIntosh-Smith, S']
   date: 2017
@@ -8,10 +13,30 @@
   date: 2017
   reference: High Performance Computing. ISC High Performance 2017. Intel Xeon Phi User Group workshop.
 
+- title: "Assessing the performance portability of modern parallel programming models using TeaLeaf"
+  authors: ['Martineau, Matt', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
+  date: 2017
+  reference: Concurrency and Computation: Practice and Experience
+
 - title: "Evaluating Attainable Memory Bandwidth of Parallel Programming Models via BabelStream"
   authors: ['Deakin, T', 'Price, J', 'Martineau, M', 'McIntosh-Smith, S']
   date: 2017
   reference: International Journal of Computational Science and Engineering (special issue)
+
+- title: "Pragmatic Performance Portability with OpenMP 4.x"
+  authors: ['Martineau, Matt', 'Price, James', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
+  date: 2016
+  reference: Proceedings of the 12th International Workshop on OpenMP
+
+- title: "Performance Analysis and Optimization of Clang's OpenMP 4.5 GPU Support"
+  authors: ['Martineau, Matt', 'McIntosh-Smith, Simon', 'Bertolli, Carlo', 'Jacob, Arpith', 'Antao, Samuel', 'Eichenberger, Alexandre', 'Bercea, Gheorghe-Teodor', 'Chen, Tong', 'Jin, Tian', 'OBrien, Kevin', 'Rokos, Georgios', 'Sung, Hyojin', 'Sura, Zehra']
+  date: 2016
+  reference: Proceedings of the International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS)
+  
+- title: "Offloading Support for OpenMP in Clang and LLVM"
+  authors: ['Antao, Samuel', 'Bataev, Alexey', 'Jacob, Arpith', 'Bercea, Gheorghe-Teodor', 'Eichenberger, Alexandre', 'Rokos, Georgios', 'Martineau, Matt', 'Jin, Tian', 'Ozen, Guray', 'Sura, Zehra', 'Chen, Tong', 'Sung, Hyojin', 'Bertolli, Carlo', 'OBrien, Kevin']
+  date: 2016
+  reference: Proceedings of the Third Workshop on LLVM Compiler Infrastructure in HPC
 
 - title: "Software-level Fault Tolerant Framework for Task-based Applications"
   authors: ['Yeh, J', 'Pawelczak, G', 'Sewart, J', 'Price, J', 'Avila Ibarra, A', 'McIntosh-Smith, S', 'Bautista-Gomez, L', 'Zyulkyarov, F']
