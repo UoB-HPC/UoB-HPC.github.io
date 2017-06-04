@@ -1,3 +1,8 @@
+- title: "Exploiting auto-tuning to analyze and improve performance portability on many-core architectures"
+  authors: ['Price, J', 'McIntosh-Smith, S']
+  date: 2017
+  reference: 2nd International Workshop on Performance Portable Programming Models for Accelerators (P^3MA)
+
 - title: "On the mitigation of cache hostile memory access patterns on many-core CPU architectures"
   authors: ['Deakin, T', 'Gaudin, W', 'McIntosh-Smith, S']
   date: 2017
