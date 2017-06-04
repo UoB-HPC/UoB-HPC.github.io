@@ -16,7 +16,7 @@
 - title: "Assessing the performance portability of modern parallel programming models using TeaLeaf"
   authors: ['Martineau, Matt', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
   date: 2017
-  reference: Concurrency and Computation: Practice and Experience
+  reference: "Concurrency and Computation: Practice and Experience"
 
 - title: "Evaluating Attainable Memory Bandwidth of Parallel Programming Models via BabelStream"
   authors: ['Deakin, T', 'Price, J', 'Martineau, M', 'McIntosh-Smith, S']
