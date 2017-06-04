@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+- [The arch project](https://github.com/uob-hpc/arch/)  
+  Hosts mini-apps serving as proxies for scientific applications, aiming to provide capability for evaluation of components of the HPC stack. Current: structured heat diffusion, hydrodynamics, an FFT-based Poisson solver and Monte Carlo neutral particle transport. In progress: Deterministic neutral particle transport, and unstructured variations of the heat diffusion and Monte Carlo neutral particle transport.
+
 - Development of fully atomistic QM/MM simulations of light harvesting (LH2) complexes found in purple bacteria.  
   Making use of the GPU accelerated quantum chemistry software package [TeraChem](http://www.petachem.com/products.html), we aim to perform the most detailed LH2 calculations ever taken, by scaling the simulation across many GPUs.
 
