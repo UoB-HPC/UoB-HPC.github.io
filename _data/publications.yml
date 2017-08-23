@@ -1,3 +1,8 @@
+- title: "Application-based fault tolerance techniques for sparse matrix solvers"
+  authors: ['McIntosh-Smith, Simon', 'Hunt, Rob', 'Price, James', 'Warwick Vesztrocy, Alex']
+  date: 2017
+  reference: International Journal of High Performance Computing Applications.
+
 - title: "The Productivity, Portability and Performance of OpenMP 4.5 for Scientific Applications Targeting Intel CPUs, IBM CPUs, and NVIDIA GPUs"
   authors: ['Martineau, Matt', 'McIntosh-Smith, Simon']
   date: 2017
