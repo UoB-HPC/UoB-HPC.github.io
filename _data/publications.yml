@@ -3,6 +3,11 @@
   date: 2017
   reference: Poster session presented at IEEE/ACM SuperComputing, Denver, Colorado, United States.
 
+- title: "Correcting Detectable Uncorrectable Errors in Memory"
+  authors: ['Pawelczak, Grzegorz', 'McIntosh-Smith, Simon']
+  date: 2017
+  reference: Poster session presented at IEEE/ACM SuperComputing, Denver, Colorado, United States.
+
 - title: "Application-Based Fault Tolerance Techniques for Fully Protecting Sparse Matrix Solvers"
   authors: ['Pawelczak, Grzegorz', 'McIntosh-Smith, Simon', 'Price, James', 'Martineau, Matt']
   date: 2017
