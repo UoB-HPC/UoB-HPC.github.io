@@ -19,5 +19,7 @@ permalink: /about/
 * Grzegorz George Pawelczak
 {% include icon-github.html username="georgepaw" %}
 * Patrick Atkinson
+* Andrei Poenaru
+{% include icon-github.html username="andreipoe" %}
 * Dan Curran
 
