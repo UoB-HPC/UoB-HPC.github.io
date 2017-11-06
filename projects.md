@@ -19,8 +19,8 @@ permalink: /projects/
 - [CloverLeaf](http://uk-mac.github.io/CloverLeaf/) and [CloverLeaf 3D](http://uk-mac.github.io/CloverLeaf3D/)  
   A Lagrangian-Eulerian hydrodynamics benchmark, part of the [Mantevo Project](https://mantevo.org/).
 
-- [TeaLeaf](http://uk-mac.github.io/TeaLeaf/) and [TeaLeaf 3D](http://uk-mac.github.io/TeaLeaf3D/)  
-  A PPCG-based sparse iterative solver framework and heat diffusion benchmark, part of the [Mantevo Project](https://mantevo.org/).
+- [TeaLeaf](https://github.com/UoB-HPC/TeaLeaf)
+  A PPCG-based sparse iterative solver framework and heat diffusion benchmark, part of the [Mantevo Project](https://mantevo.org/). Written in C, with multiple programming models. Original code available at [UK-MAC](http://uk-mac.github.io/TeaLeaf/).
 
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
   An extensible OpenCL device simulator that provides a platform with which various OpenCL developer tools can be created. Includes support for detecting memory access errors, race conditions, work-group divergence, and provides an interactive debugging environment.
