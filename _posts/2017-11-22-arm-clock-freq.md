@@ -11,7 +11,7 @@ Conventional approaches such as `lscpu`, `cat /proc/cpuinfo`, and `perf stat` fr
 Until this situation improves, I've been using the following simple program to estimate the clock frequency of an Arm CPU.
 This program runs a long sequence of `add` instructions written using inline assembler, and estimates the frequency based on the runtime and the number of instructions executed.
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
