@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimating Arm clock frequencies
+title: Estimating Arm CPU clock frequencies
 author: James Price
 ---
 
@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
 
 This can be compiled and run using any C compiler that supports the GNU extended assembler syntax:
 
-    # Add -DITRS=##### to change the number of instructions exectuted
+    # Add -DITRS=##### to change the number of instructions executed
     cc -O2 freq.c -o freq
 
     $ ./freq
