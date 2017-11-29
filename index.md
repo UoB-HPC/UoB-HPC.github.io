@@ -8,6 +8,8 @@ Our research focuses on the application of heterogeneous and many-core computing
 
 The group maintains an experimental cluster of some of the fastest and most exotic GPUs and accelerators in the world - see the [web page](/zoo) for information on our ‘Zoo'.
 
+In 2017, led by Simon McIntosh-Smith, the GW4 Alliance, along partners Cray Inc. and the Met Office were awarded £3m by EPSRC to deliver a new production Tier 2 HPC system for UK-based researchers. The 'Isambard' system will explore multiple advanced computer architectures, including 64-bit ARM, and will focus on exploring the performance of the UK's most used HPC codes.
+
 Bristol University also boasts the [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk/) hosting the BlueCrystal supercomputers. BlueCrystal Phase 3 and Phase 4 both featured in the [Top 500](http://www.top500.org/) supercomputers in the world in 2013 and 2016 respectively. The University’s HPC resources on [Phase 4](https://www.acrc.bris.ac.uk/acrc/news.htm#BC4) include around 16,000 cores and 64 NVIDIA P100 GPUs resulting in a peak 600 teraflops of performance.
 
 The University of Bristol became an [Intel Parallel Computing Center (IPCC)](https://software.intel.com/en-us/ipcc) in January 2014 (see the [press announcement](http://www.bristol.ac.uk/news/2014/january/10099.html)). We were the first such centre in the UK and the seventh worldwide. As part of this initiative we are working with Intel to help modernise HPC codes so that they are ready for future many-core systems, such as the Intel Xeon Phi.
