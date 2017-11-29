@@ -7,7 +7,7 @@ permalink: /projects/
 - [BabelStream](http://uob-hpc.github.io/BabelStream/)
   A benchmark used to measure memory bandwidth, in a wide variety of programming models.
 
-- [MEGA-STREAM](http://github.com/uk-mac/mega-stream)
+- [MEGA-STREAM](http://github.com/uk-mac/mega-stream)  
   A benchmark used to investigate why streaming many arrays (with different sizes) causes memory bandwidth limits not to be reached; resulting in latency becoming a dominant factor.
 
 - [The arch project](https://github.com/uob-hpc/arch/)  
@@ -19,7 +19,7 @@ permalink: /projects/
 - [CloverLeaf](http://uk-mac.github.io/CloverLeaf/) and [CloverLeaf 3D](http://uk-mac.github.io/CloverLeaf3D/)  
   A Lagrangian-Eulerian hydrodynamics benchmark, part of the [Mantevo Project](https://mantevo.org/).
 
-- [TeaLeaf](https://github.com/UoB-HPC/TeaLeaf)
+- [TeaLeaf](https://github.com/UoB-HPC/TeaLeaf)  
   A PPCG-based sparse iterative solver framework and heat diffusion benchmark, part of the [Mantevo Project](https://mantevo.org/). Written in C, with multiple programming models. Original code available at [UK-MAC](http://uk-mac.github.io/TeaLeaf/).
 
 - [Oclgrind](https://github.com/jrprice/Oclgrind)  
