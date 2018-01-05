@@ -22,4 +22,5 @@ permalink: /about/
 * Andrei Poenaru
 {% include icon-github.html username="andreipoe" %}
 * Dan Curran
+* Jose Nunez-Yanez
 
