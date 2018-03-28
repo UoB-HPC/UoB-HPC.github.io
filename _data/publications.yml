@@ -1,3 +1,9 @@
+- title: "Multi-Precision Convolutional Neural Networks
+on Heterogeneous Hardware"
+  authors: ['Amiri, Moslem', 'Hosseinabady, Mohammad', 'McIntosh-Smith, Simon', 'Nunez-Yanez, Jose']
+  date: 2018
+  reference: Design, Automation and Test in Europe (DATE 2018), Dresden, Germany.
+
 - title: "Portable Methods for Measuring Cache Hierarchy Performance"
   authors: ['Deakin, Tom', 'Price, James', 'McIntosh-Smith, Simon']
   date: 2017
