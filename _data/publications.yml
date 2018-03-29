@@ -54,6 +54,11 @@ on Heterogeneous Hardware"
   date: 2017
   reference: International Journal of Computational Science and Engineering (special issue)
 
+- title: "Adaptive voltage scaling in a heterogeneous FPGA device with memory and logic in-situ detectors"
+  authors: ['Nunez-Yanez, Jose']
+  date: 2017
+  reference: "Microprocessors and Microsystems, vol 51., pp. 227-238"
+
 - title: "Pragmatic Performance Portability with OpenMP 4.x"
   authors: ['Martineau, Matt', 'Price, James', 'McIntosh-Smith, Simon', 'Gaudin, Wayne']
   date: 2016
