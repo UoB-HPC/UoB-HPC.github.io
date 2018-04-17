@@ -74,17 +74,17 @@ I am the creator of the [HandsOnOpenCL]() online course for OpenCL. This course 
 
 ### Current units
 
-* *Advanced Computer Architecture* with David May (COMSM0109): This course enables you to really understand how processors work and how best to exploit modern processor features from software.
+* **Advanced Computer Architecture** with David May (COMSM0109): This course enables you to really understand how processors work and how best to exploit modern processor features from software.
 
-* *Introduction to High Performance Computing* with Gethin Williams (COMS30005): This course takes you through the theory and hands-on practise of high performance computing, using OpenMP and MPI to write codes that will scale across all the cores of a modern high-end server.
+* **Introduction to High Performance Computing** with Gethin Williams (COMS30005): This course takes you through the theory and hands-on practise of high performance computing, using OpenMP and MPI to write codes that will scale across all the cores of a modern high-end server.
 
-* *Advanced High Performance Computing* (COMS30006): This course builds on my Intro to HPC unit, extending to advanced topics such as parallel programming models (MPI+X, GPU programming etc), and applying these to the latest cutting edge computer architectures. 
+* **Advanced High Performance Computing** (COMS30006): This course builds on my Intro to HPC unit, extending to advanced topics such as parallel programming models (MPI+X, GPU programming etc), and applying these to the latest cutting edge computer architectures. 
 
 ### Previous units
 
-* *HiTec Enterprise* with Grev Cummins (COMS12900): First year introductory course to innovation and entrepreneurship. This course will equip you with highly marketable skills that will prove valuable through your remaining time in Bristol, and beyond.
+* **HiTec Enterprise** with Grev Cummins (COMS12900): First year introductory course to innovation and entrepreneurship. This course will equip you with highly marketable skills that will prove valuable through your remaining time in Bristol, and beyond.
 
-* *Individual project business plan*  (COMSM0306): Fourth year course. Advanced topics on how real companies work, innovation, entrepreneurship and transferrable skills. This is one of the top courses of its kind anywhere in the world (we know, we did the benchmarking), and will make you extremely marketable. The skills you learn here will be incredibly valuable throughout your entire career, no matter what kind of roles you choose.
+* **Individual project business plan**  (COMSM0306): Fourth year course. Advanced topics on how real companies work, innovation, entrepreneurship and transferrable skills. This is one of the top courses of its kind anywhere in the world (we know, we did the benchmarking), and will make you extremely marketable. The skills you learn here will be incredibly valuable throughout your entire career, no matter what kind of roles you choose.
 Information
 
 
@@ -98,6 +98,9 @@ Woodland Road
 Bristol
 BS8 1UB,
 United Kingdom
+
+Email: simonm at cs dot bris dot ac dot uk
+Twitter: {% include icon-github.html username="simonmcs" %}
 
 Phone: +44 (0)117 33 15324
 Fax: +44 (0)117 9545208
