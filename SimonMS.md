@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professor Simon McIntosh-Smith
-permalink: /about/
+permalink: /SimonMS.md
 ---
 
 
