@@ -1,20 +1,21 @@
 ---
 layout: page
 title: Professor Simon McIntosh-Smith
-permalink: /SimonMS.md
+permalink: /SimonMS/
 ---
 
+![alt text]({{site.url}}/assets/simon_mugshot_medres.jpg "Prof Simon McIntosh-Smith"){:height="25%" width="25%"}
 
 # Professor Simon McIntosh-Smith
 
 Professor of High Performance Computing
 
-Head of the High Performance Computing research group [group Github repo](https://uob-hpc.github.io/)
-Department of Computer Science
-University of Bristol, UK
+Head of the [High Performance Computing research group](https://uob-hpc.github.io/)
+[Department of Computer Science](http://www.cs.bris.ac.uk)
+[University of Bristol](http://www.bristol.ac.uk), UK
 
 PI for the [Isambard GW4 Tier 2 HPC centre](http://gw4.ac.uk/isambard/)
-Chair of the University of Bristol's HPC executive committee
+Chair of the University of Bristol's [HPC executive committee](https://www.acrc.bris.ac.uk)
 
 
 Email: simonm at cs dot bris dot ac dot uk
@@ -23,7 +24,7 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 
 ## Background
 
-* Graduated as Valedictorian in Computer Science from the University of Cardiff in 1991 (first class honours / summa cum laude)
+* Graduated as Valedictorian in Computer Science from the [University of Cardiff](http://www.cardiff.ac.uk) in 1991 (first class honours / summa cum laude)
 * Worked as a CPU architect at Inmos, STMicroelectronics and PixelFusion, before co-founding ClearSpeed as VP of Architecture in 2002
 * Joined the University of Bristol to lead research on HPC and computer architecture in 2009
 
@@ -34,6 +35,20 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 * Application-based fault tolerance (ABFT)
 * Exploiting emerging computer architectures, such as GPUs, Arm, many-core, FPGAs etc.
 * Computer architectures to reach Exascale: application-optimised co-processors, vector ISAs etc.
+
+
+## Projects
+
+* EPSRC GW4 Tier2 HPC service, "Isambard", PI, £4.7M over 3 years, 2016-
+* AWE path to many-core projects, total funding ~£350K, PI, 2012-
+* FP7 Mont-Blanc 2, €15M, CoI, 2013-2017
+* Intel Parallel Computing Centre, PI, 2014-2017
+* EPSRC Software for the Future: Future-proof massively parallel execution of multiblock applications, CoI, £825K, 2013-2016
+* FP7 European Exascale Software Initiative 2 (EESI-2), CoI, £1.3M, 2012-2014
+* UK TSB KTP, Optimising molecular similarity applications on many-core architectures, £97K, 2012-2013
+* EPSRC Adaptive Multi-Resolution Massively-Multicore Hybrid Dynamics, £386K, 2011-2013
+* Total grant income to date ~£6.7M
+
 
 
 ## Achievements
@@ -52,6 +67,7 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 * Member of the new UKRI e-infrastruction advisory board (2018-)
 * Member of EPSRC's resource allocation panel (RAP) for HECToR then ARCHER, the UK's national supercomputer resources
 * Regular member of the organising and programme committees for IEEE/ACM SuperComputing and ISC
+
 
 ## Industrial experience
 
