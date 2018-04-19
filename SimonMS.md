@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Professor Simon McIntosh-Smith
+permalink: /SimonMS/
 ---
 
 ![alt text]({{site.url}}/assets/simon_mugshot_medres.jpg "Prof Simon McIntosh-Smith"){:height="25%" width="25%"}
