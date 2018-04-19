@@ -39,6 +39,8 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 
 ## Projects
 
+* [Active HPC software projects]((/projects/))
+
 * EPSRC GW4 Tier2 HPC service, "Isambard", PI, £4.7M over 3 years, 2016-
 * AWE path to many-core projects, total funding ~£350K, PI, 2012-
 * FP7 Mont-Blanc 2, €15M, CoI, 2013-2017
@@ -47,7 +49,7 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 * FP7 European Exascale Software Initiative 2 (EESI-2), CoI, £1.3M, 2012-2014
 * UK TSB KTP, Optimising molecular similarity applications on many-core architectures, £97K, 2012-2013
 * EPSRC Adaptive Multi-Resolution Massively-Multicore Hybrid Dynamics, £386K, 2011-2013
-* Total grant income to date ~£6.7M
+* Total grant income as of April 2018 ~£6.7M
 
 
 
@@ -57,12 +59,12 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 * PI of the Isambard GW4 project, the world's first production Arm-based supercomputer
 * One of two UK representitives on the European [e-infrastructure reflection group](http://e-irg.eu/delegates)
 * PI of the first Intel Parallel Computing Center (IPCC) in the UK (2013-2017)
-* Contributor to both the [OpenCL]() and [OpenMP]() parallel programming international standards
-* Major contributor to the Sandia's [Mantevo mini-app suite of codes](), specifically [CloverLeaf]() and [TeaLeaf]()
-* Founder of the [International Workshop on OpenCL (IWOCL)]()
+* Contributor to both the [OpenCL](https://www.khronos.org/opencl/) and [OpenMP](http://www.openmp.org) parallel programming international standards
+* Major contributor to the Sandia's [Mantevo mini-app suite of codes](), specifically [CloverLeaf](https://github.com/UoB-HPC/CloverLeaf) and [TeaLeaf](https://github.com/UoB-HPC/TeaLeaf)
+* Founder of the [International Workshop on OpenCL (IWOCL)](http://www.iwocl.org)
 * Chair of the EPSRC ARCHER2 national supercomputer project working group and member of the project board
-* Previously member of the [ARCHER]() technical project working group (2010-2013)
-* External examiner for [EPCC's HPC and big data Masters program]() (2012-2018)
+* Previously member of the [ARCHER](https://www.archer.ac.uk) technical project working group (2010-2013)
+* External examiner for [EPCC's HPC and big data Masters program](https://www.epcc.ed.ac.uk) (2012-2018)
 * Member of EPSRC's Research Infrastructure Strategic Advisory Team (2011-2015)
 * Member of the new UKRI e-infrastruction advisory board (2018-)
 * Member of EPSRC's resource allocation panel (RAP) for HECToR then ARCHER, the UK's national supercomputer resources
