@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The High Performance Computing group, led by [Simon McIntosh-Smith](http://www.cs.bris.ac.uk/home/simonm/), is part of the [Department of Computer Science](https://www.cs.bris.ac.uk) at the [University of Bristol](http://www.bristol.ac.uk).
+The High Performance Computing group, led by [Simon McIntosh-Smith](http://uob-hpc.github.io/SimonMS/), is part of the [Department of Computer Science](https://www.cs.bris.ac.uk) at the [University of Bristol](http://www.bristol.ac.uk).
 
 Our research focuses on the application of heterogeneous and many-core computing to solve large-scale scientific problems. Related research problems we are addressing include: performance portability across many-core devices; automatic optimisation of many-core codes; communication-avoiding algorithms for massive scale systems; and fault tolerance software techniques for resiliency at scale.
 
