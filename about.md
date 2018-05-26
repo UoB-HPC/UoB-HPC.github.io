@@ -7,7 +7,7 @@ permalink: /about/
 
 # Personnel
 
-* [Prof Simon McIntosh-Smith](http://www.cs.bris.ac.uk/~simonm/)
+* [Prof Simon McIntosh-Smith](http://uob-hpc.github.io/SimonMS/)
 {% include icon-github.html username="simonmcs" %}
 * Dr James Price
 {% include icon-github.html username="jrprice" %}
@@ -16,8 +16,6 @@ permalink: /about/
 * Mr Mike O'Connor
 * Mr Matt Martineau
 {% include icon-github.html username="mattmartineau" %}
-* Mr Grzegorz George Pawelczak
-{% include icon-github.html username="georgepaw" %}
 * Mr Patrick Atkinson
 * Mr Andrei Poenaru
 {% include icon-github.html username="andreipoe" %}
@@ -26,7 +24,8 @@ permalink: /about/
 * Dr Jose Nunez-Yanez
 
 Former group members:
-* Dr Rob Hunt (now at Toumetis)
+* Mr Grzegorz George Pawelczak, now at [Graphcore](https://www.graphcore.ai)
+* Dr Rob Hunt, now at [Toumetis](https://toumetis.com)
 * Mr Dan Curran
 * Mr Mike Boulton
 
