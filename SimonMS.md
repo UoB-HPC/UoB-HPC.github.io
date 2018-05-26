@@ -41,14 +41,14 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 
 * [Active HPC software projects](/projects/)
 
-* EPSRC GW4 Tier2 HPC service, "Isambard", PI, £4.7M over 3 years, 2016-
+* EPSRC GW4 Tier2 HPC service, "[Isambard](http://gw4.ac.uk/isambard/)", PI, £4.7M over 3 years, 2016-
 * AWE path to many-core projects, total funding ~£350K, PI, 2012-
-* FP7 Mont-Blanc 2, €15M, CoI, 2013-2017
-* Intel Parallel Computing Centre, PI, 2014-2017
-* EPSRC Software for the Future: Future-proof massively parallel execution of multiblock applications, CoI, £825K, 2013-2016
-* FP7 European Exascale Software Initiative 2 (EESI-2), CoI, £1.3M, 2012-2014
+* [FP7 Mont-Blanc 2](http://montblanc-project.eu/project/presentation#mont-blanc-2-2013-2016), €15M, CoI, 2013-2017
+* [Intel Parallel Computing Centre](https://software.intel.com/en-us/ipcc), PI, 2014-2017
+* EPSRC Software for the Future: [Future-proof massively parallel execution of multiblock applications](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/K038486/1), CoI, £825K, 2013-2016
+* [FP7 European Exascale Software Initiative 2 (EESI-2)](http://www.eesi-project.eu), CoI, £1.3M, 2012-2014
 * UK TSB KTP, Optimising molecular similarity applications on many-core architectures, £97K, 2012-2013
-* EPSRC Adaptive Multi-Resolution Massively-Multicore Hybrid Dynamics, £386K, 2011-2013
+* EPSRC [Adaptive Multi-Resolution Massively-Multicore Hybrid Dynamics](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/I030395/1), £386K, 2011-2013
 * Total grant income as of April 2018 ~£6.7M
 
 
@@ -56,9 +56,9 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 ## Achievements
 
 * Chair of the University of Bristol's HPC executive committee, and member of the Advanced IT Board (2017-)
-* PI of the Isambard GW4 project, the world's first production Arm-based supercomputer
+* PI of the [Isambard](http://gw4.ac.uk/isambard/) [GW4](http://gw4.ac.uk) project, the world's first production Arm-based supercomputer
 * One of two UK representitives on the European [e-infrastructure reflection group](http://e-irg.eu/delegates)
-* PI of the first Intel Parallel Computing Center (IPCC) in the UK (2013-2017)
+* PI of the first Intel Parallel Computing Center ([IPCC](https://software.intel.com/en-us/ipcc)) in the UK (2013-2017)
 * Contributor to both the [OpenCL](https://www.khronos.org/opencl/) and [OpenMP](http://www.openmp.org) parallel programming international standards
 * Major contributor to the Sandia's [Mantevo mini-app suite of codes](), specifically [CloverLeaf](https://github.com/UoB-HPC/CloverLeaf) and [TeaLeaf](https://github.com/UoB-HPC/TeaLeaf)
 * Founder of the [International Workshop on OpenCL (IWOCL)](http://www.iwocl.org)
