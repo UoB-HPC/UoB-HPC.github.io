@@ -39,7 +39,7 @@ Twitter: {% include icon-github.html username="simonmcs" %}
 
 ## Projects
 
-* [Active HPC software projects]((/projects/))
+* [Active HPC software projects](/projects/)
 
 * EPSRC GW4 Tier2 HPC service, "Isambard", PI, £4.7M over 3 years, 2016-
 * AWE path to many-core projects, total funding ~£350K, PI, 2012-
