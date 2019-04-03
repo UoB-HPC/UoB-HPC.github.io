@@ -7,7 +7,13 @@ permalink: /zoo/
 In order to test performance portability across a wide range of devices,
 we maintain a small cluster containing many different accelerator technologies.
 
-Access is by [request](mailto:tom.deakin@bristol.ac.uk).
+Please [request access by email](mailto:tom.deakin@bristol.ac.uk) in the first instance.
+
+**Please be aware that the Zoo is currently offline due to a significant planned upgrade.
+The following information on this page refers to te previous Zoo and will be uodated for
+the opening of the upgraded Zoo shortly.**
+
+The upgraded Zoo will contain new hardware including NEC Aurora, Ampere CPUs, NVIDIA Turing GPUs and AMD Radeon VII GPUs.
 
 ## Contents
 
