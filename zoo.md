@@ -27,6 +27,7 @@ The upgraded Zoo will contain new hardware including NEC Aurora, Ampere CPUs, NV
 | NVIDIA GTX 980 Ti       | Consumer GPU  | Maxwell      | `-lnodes=1:gpus=1:gtx980ti`  |
 | NVIDIA GTX 1080 Ti      | Consumer GPU  | Pascal       | `-lnodes=1:gpus=1:gtx1080ti` |
 | NVIDIA GTX TITAN X      | Consumer GPU  | Pascal       | `-lnodes=1:gpus=1:titanx`    |
+| NVIDIA GTX 2080 Ti      | Consumer GPU  | Turing       | Coming Soon!                 |
 | AMD S9150               | HPC GPU       | Hawaii       | `-lnodes=1:gpus=1:s9150`     |
 | AMD S10000              | HPC GPU       | Tahiti       | Unavailable                  |
 | AMD HD7970              | Consumer GPU  | Tahiti       | `-lnodes=1:gpus=1:hd7970`    |
@@ -34,11 +35,13 @@ The upgraded Zoo will contain new hardware including NEC Aurora, Ampere CPUs, NV
 | AMD R9-290X             | Consumer GPU  | Hawaii       | `-lnodes=1:gpus=1:r9-290x`   |
 | AMD Fury X              | Consumer GPU  | Fiji         | `-lnodes=1:gpus=1:furyx`     |
 | AMD RX 480              | Consumer GPU  | Polaris      | `-lnodes=1:gpus=1:rx480`     |
+| AMD Radeon VII          | Consumer GPU  | Vega 20      | Coming Soon!                 |
 | Intel Xeon E5-2697 v2   | Server CPU    | Ivy Bridge   | `-lnodes=1:ppn=24:ivybridge` |
 | AMD A10-7850K Radeon R7 | APU           | Kaveri       | `-lnodes=1:kaveri`           |
 | Intel Xeon Phi 7210     | MIC           | KNL          | `-lnodes=1:ppn=256:knl`      |
 | NVIDIA Jetson TX1       | ARMv8         | Cortex-A57   | `-lnodes=1:ppn=4:jetson`     |
 | SoftIron Overdrive 1000 | ARMv8         | Cortex-A57   | `-lnodes=1:ppn=4:overdrive`  |
+| NEC Aurora              | Accelerator   | SX           | Coming Soon!                 |
 
 When running on the KNL, please see [additional documentation](/2016/06/06/knl.html).
 
