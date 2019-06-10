@@ -10,7 +10,7 @@ title: High Performance Computing - University of Bristol
 email: simonm@cs.bris.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   The High Performance Computing group, led by Simon McIntosh-Smith, is part of
-  the Microelectronics Research Group in the Department of Computer Science at
+  the Department of Computer Science at
   the University of Bristol.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uob-hpc.github.io" # the base hostname & protocol for your site
