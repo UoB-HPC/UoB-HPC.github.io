@@ -1,5 +1,9 @@
-- title: "Multi-Precision Convolutional Neural Networks
-on Heterogeneous Hardware"
+- title: "Parallel multiprocessing and scheduling on the heterogeneous Xeon+FPGA platform"
+  authors: ['Rodriguez, Andres', 'Navarro, Angeles', 'Asenjo, Rafael', 'Corbera, Francisco', 'Suarez, Dario', 'Gran, Ruben', 'Nunez-Yanez, Jose']
+  date: 2019
+  reference: The Journal of Supercomputing.
+
+- title: "Multi-Precision Convolutional Neural Networks on Heterogeneous Hardware"
   authors: ['Amiri, Moslem', 'Hosseinabady, Mohammad', 'McIntosh-Smith, Simon', 'Nunez-Yanez, Jose']
   date: 2018
   reference: Design, Automation and Test in Europe (DATE 2018), Dresden, Germany.
