@@ -1,7 +1,22 @@
+- title: "Scaling Results From the First Generation of Arm-based Supercomputers"
+  authors: ['McIntosh-Smith, Simon', 'Price, James', 'Poenaru, Andrei', 'Deakin, Tom']
+  date: 2019
+  reference: Cray User Group 2019, Montreal, Canada.
+
+- title: "A performance analysis of the first generation of HPC‐optimized Arm processors"
+  authors: ['McIntosh-Smith, Simon', 'Price, James', 'Deakin, Tom', 'Poenaru, Andrei']
+  date: 2019
+  reference: "Concurrency and Computation: Practice and Experience"
+
 - title: "Parallel multiprocessing and scheduling on the heterogeneous Xeon+FPGA platform"
   authors: ['Rodriguez, Andres', 'Navarro, Angeles', 'Asenjo, Rafael', 'Corbera, Francisco', 'Suarez, Dario', 'Gran, Ruben', 'Nunez-Yanez, Jose']
   date: 2019
   reference: The Journal of Supercomputing.
+
+- title: "Comparative benchmarking of the first generation of HPC-optimised ARM processors on Isambard"
+  authors: ['McIntosh-Smith, Simon', 'Price, James', 'Deakin, Tom', 'Poenaru, Andrei']
+  date: 2018
+  reference: Cray User Group 2018, Stockholm, Sweden.
 
 - title: "Multi-Precision Convolutional Neural Networks on Heterogeneous Hardware"
   authors: ['Amiri, Moslem', 'Hosseinabady, Mohammad', 'McIntosh-Smith, Simon', 'Nunez-Yanez, Jose']
