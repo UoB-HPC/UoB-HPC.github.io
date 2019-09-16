@@ -4,6 +4,8 @@ title: Visualising OpenCL Timelines with NVVP
 author: James Price
 ---
 
+**NOTE: The techniques described below do not work for CUDA toolkit versions newer than 7.5.**
+
 NVIDIA have a [visual profiler (NVVP)](https://developer.nvidia.com/nvidia-visual-profiler) which *used* to be a fantastic tool for analyzing OpenCL applications running on NVIDIA GPUs.
 Unfortunately, as NVIDIA let their OpenCL support stagnate, the OpenCL portion of NVVP has ceased to function (the CUDA side of this tool was kept up-to-date, of course).
 This has been the case for several years now, although we remain optimistic that this situation will change (for the better) in the near future, now that NVIDIA seem to be back on the OpenCL bandwagon.

@@ -38,7 +38,7 @@ int main(int argc, char *argv[])
               INST2 INST2 INST2 INST2   INST2 INST2 INST2 INST2
     asm volatile (
       INST3
-      : [i] "=r" (instructions)
+      : [i] "+r" (instructions)
       :
       : "cc"
       );
