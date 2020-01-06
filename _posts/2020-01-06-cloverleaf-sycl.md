@@ -187,7 +187,7 @@ Each CloverLeaf kernel is shown in isolation, with the total runtime shown at th
 It is clear that Kokkos and SYCL have very similar runtimes for almost all the kernels, as long as the memory access pattern for SYCL is correct.
 The reductions kernels (Timestep and Summary) show some further opportunity for optimisation remains.
 
-![CloverLeaf SYCL runtime](./cloverleaf_sycl_runtime.png)
+![CloverLeaf SYCL runtime]({{site.url}}/assets/cloverleaf_sycl_runtime.png)
 
 
 ## Summary
