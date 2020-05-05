@@ -1,6 +1,6 @@
 --
 layout: post
-title: Which performance portable programming model should I use?
+title: "Which performance portable programming model should I use?"
 author: Tom Deakin
 ---
 
