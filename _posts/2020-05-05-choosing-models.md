@@ -6,7 +6,7 @@ author: Tom Deakin
 
 This post has come about after we were asked the following question recently:
 
-> I want to run my code on CPUs and GPUs from different vendors without having to duplicate everything in different languages each time. Which parallel programming model shall I use?
+> I want to run my code on CPUs and GPUs from different vendors without having to duplicate everything in different languages each time. Which parallel programming model should I use?
 
 It's a question we've regularly thought about in the HPC group at the University of Bristol over the years.
 It's tricky to answer this question as it involves some prediction of the future, which is notoriously hard!
