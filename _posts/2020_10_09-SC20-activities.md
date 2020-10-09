@@ -8,7 +8,7 @@ author: Tom Deakin
 
 The annual Supercomputing conference is always a highlight and one of the busiest times of the HPC year, and this year has been no exception. Not least because of the advanced preparation needed for a virtual conference.
 
-We're involved in lots of different things at SC this year: presenting workshop papers, running remote tutorials, reviewing papers on programme committees, giving booth talks and appearing as panelists for Birds of a Feather sessions. You can find more details below.
+We're involved in lots of different things at SC this year: presenting workshop papers, running remote tutorials, reviewing papers on programme committees, giving booth talks and appearing as panellists for Birds of a Feather sessions. You can find more details below.
 
 Although we won't be seeing you in person this year, do keep in touch: we're on Twitter as [@simonmcs](https://twitter.com/simonmcs) and [@tjdeakin](https://twitter.com/tjdeakin).
 
@@ -38,7 +38,7 @@ You can find out when this talk will be shown in the [schedule](https://sc20.sup
 ## OpenMP at Supercomputing
 There are lots of OpenMP events going on at SC'20 this year: find out more about [OpenMP at SC'20](https://www.openmp.org/events/openmp-sc20/).
 
-Simon McIntosh-Smith and Tom Deakin are running their popular *Programming your GPU with OpenMP: A Hands-on Introduction* tutorial will be split over two days ([Part 1](https://sc20.supercomputing.org/presentation/?id=tut155&sess=sess237) and [Part 2](https://sc20.supercomputing.org/presentation/?id=pec101&sess=sess240)). There are plenty of hands-on exercises planned between pre-recoded presentations, so attendees can gain practical experience writing OpenMP code targeting GPUs in the [Isambard supercomputer](https://gw4.ac.uk/isambard/).
+Simon McIntosh-Smith and Tom Deakin are running their popular *Programming your GPU with OpenMP: A Hands-on Introduction* tutorial will be split over two days ([Part 1](https://sc20.supercomputing.org/presentation/?id=tut155&sess=sess237) and [Part 2](https://sc20.supercomputing.org/presentation/?id=pec101&sess=sess240)). There are plenty of hands-on exercises planned between pre-recorded presentations, so attendees can gain practical experience writing OpenMP code targeting GPUs in the [Isambard supercomputer](https://gw4.ac.uk/isambard/).
 
 If you're potentially interested, [watch the promotional video!](https://youtu.be/SQdMVS0R4N0)
 
