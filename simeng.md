@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simulation Engine
-permalink: /simeng/
+permalink: /SimEng/
 ---
 
 The Simulation Engine framework (SimEng) provides a modern cycle-accurate processor simulator, with aims to be:
