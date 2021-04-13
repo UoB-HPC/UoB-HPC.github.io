@@ -23,6 +23,8 @@ The main component provided by the simulator is a discrete processor core model,
 
 Once the core model is mature enough, integration with the [Structural Simulation Toolkit](http://sst-simulator.org/) (SST) is planned to support multi-core and memory hierarchy simulation. To date, a prototype of SST's memory hierarchy integration has been created.
 
+Additional documentation for SimEng can be found [here](http://uob-hpc.github.io/SimEng-Docs/).
+
 ## Talks and presentations
 SimEng has been presented by [Professor Simon McIntosh-Smith](http://uob-hpc.github.io/SimonMS/) at previous Workshop on Modeling & Simulation of Systems and Applications (ModSim) events:
 
