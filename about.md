@@ -21,15 +21,15 @@ permalink: /about/
 * Dr Dinesh Pamunuwa (Assoc. Professor)
 
 Former group members:
-* Dr Patrick Atkinson {% include icon-github.html username="patrickatkinson" %}, now at NVIDIA
-* Dr Clement Foyer {% include icon-github.html username="clementFoyer" %}, now at INRIA
-* Dr James Price, now at Google {% include icon-github.html username="jrprice" %}
-* Dr Matt Martineau, now at NVIDIA
-* Mr Hal Jones {% include icon-github.html username="hal-jones" %}, now at UK government
-* Dr Mike O'Connor, now a researcher in Dr Dave Glowacki's group
-* Mr Grzegorz (George) Pawelczak, now at [Graphcore](https://www.graphcore.ai)
-* Mr Codrin Popa, now at Apple
-* Dr Rob Hunt, now at [Toumetis](https://toumetis.com)
+* Dr Patrick Atkinson, now at [NVIDIA](https://www.linkedin.com/in/patrick-atkinson-108b08105/)
+* Dr Clement Foyer, now at [INRIA](https://www.linkedin.com/in/clementfoyer/)
+* Dr James Price, now at [Google](https://www.linkedin.com/in/jamesrprice89/)
+* Dr Matt Martineau, now at [NVIDIA](https://www.linkedin.com/in/matt-martineau-7a575421/)
+* Mr Hal Jones, now at UK government
+* Dr Mike O'Connor, now at [Entos](https://www.linkedin.com/in/mike-o-connor-353493162/)
+* Mr Grzegorz (George) Pawelczak, now at [Graphcore](https://www.linkedin.com/in/george-pawelczak/)
+* Mr Codrin Popa, now at [Facebook](https://www.linkedin.com/in/codrinpopa/)
+* Dr Rob Hunt, now at [ITSUS Consulting](https://www.linkedin.com/in/robdhunt/)
 * Mr Dan Curran
 * Mr Mike Boulton
 
