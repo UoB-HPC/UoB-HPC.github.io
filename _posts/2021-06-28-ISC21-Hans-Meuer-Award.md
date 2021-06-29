@@ -5,7 +5,7 @@ author: Simon McIntosh-Smith
 ---
 
 
-![alt text]({{site.url}}/assets/ISC-21-Logo.png "ISC 2021 logo"){:width="45%"} ![alt text]({{site.url}}/assets/Hans-Meuer-Award-Logo.png "Hans Meuer best paper award"){:width="25%"}
+ ![alt text]({{site.url}}/assets/Hans-Meuer-Award-Logo.png "Hans Meuer best paper award"){:width="25%"} ![alt text]({{site.url}}/assets/ISC-21-Logo.png "ISC 2021 logo"){:width="45%"}
 
 We are delighted and proud to have been awarded the Hans Meuer award at ISC 2021. The Hans Meuer Award honors the most outstanding research paper submitted to the conference’s Research Papers Committee. The award was introduced in memory of the late Dr. Hans Meuer, general chair of the ISC conference from 1986 through 2014, and co-founder of the TOP500 project. 
 
