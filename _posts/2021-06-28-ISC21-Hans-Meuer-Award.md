@@ -15,7 +15,7 @@ The paper investigates the efficacy of various parallel programming languages fo
 
 To cite this paper, please use:
 
-Andrei Poenaru, Wei-Chen Lin and Simon McIntosh-Smith, "A Performance Analysis of Modern Parallel Programming Models Using a Compute-Bound Application". In International Conference on High Performance Computing, LNCS volume 12728, (pp. 332-350). Springer, Cham., June 2021. 
+*Andrei Poenaru, Wei-Chen Lin and Simon McIntosh-Smith, "A Performance Analysis of Modern Parallel Programming Models Using a Compute-Bound Application". In International Conference on High Performance Computing, LNCS volume 12728, (pp. 332-350). Springer, Cham., June 2021.*
 
 
 Performance portability is a major research theme for the Bristol group. To find our other performance portability related paper, we recommend [Google Scholar](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=McIntosh-Smith+%22performance+portability%22&btnG=).
