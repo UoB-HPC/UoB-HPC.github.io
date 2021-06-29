@@ -22,3 +22,5 @@ Performance portability is a major research theme for the Bristol group. To find
 
 Simon McIntosh-Smith, Professor of High Performance Computing, Head of the HPC Research Group, University of Bristol. Follow @simonmcs on Twitter for more news from the HPC research group in Bristol.
 
+
+![alt text]({{site.url}}/assets/Martin-Schulz-award-presentation.png "Prof. Dr. Martin Schulz announcing the ISC 2021 Hans Meuer best paper award"){:width="50%"} 
