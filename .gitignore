@@ -7,3 +7,4 @@ _site/
 Gemfile*
 
 *.sublime-*
+.DS_Store
