@@ -5,7 +5,8 @@ author: Simon McIntosh-Smith
 ---
 
 
- ![alt text]({{site.url}}/assets/CIUK_title_slide.jpg "CIUK keynote talk title slide"){:width="75%"} 
+![alt text]({{site.url}}/assets/CIUK_keynote_photo.jpg "CIUK keynote talk"){:width="75%"} 
+
 
 Prof. Simon McIntosh-Smith, head of the HPC Research Group at the University of Bristol, gave an invited keynote to an audience of around 200 people at the Computing Insight UK 2021 conference in Manchester on Thursday December 9th. 
 
