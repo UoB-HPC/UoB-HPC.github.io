@@ -5,7 +5,7 @@ author: Simon McIntosh-Smith
 ---
 
 
- ![alt text]({{site.url}}/assets/CIUK_title_slide.jpg "CIUK keynote talk title slide"){:width="25%"} 
+ ![alt text]({{site.url}}/assets/CIUK_title_slide.jpg "CIUK keynote talk title slide"){:width="75%"} 
 
 Prof. Simon McIntosh-Smith, head of the HPC Research Group at the University of Bristol, gave an invited keynote to an audience of around 200 people at the Computing Insight UK 2021 conference in Manchester on Thursday December 9th. 
 
@@ -17,12 +17,12 @@ Heterogeneous computing first took off in HPC in 2006, when Tsubame 1.0 appeared
 
 Heterogeneous architectures, which in HPC today largely combine CPUs and GPUs, are being adopted especially for the largest supercomputers, because of their benefits in terms of energy efficiency and higher peak performance for memory bandwidth and floating-point computation. However, heterogeneous (CPU+GPU) architectures are more complicated to program than homogeneous (CPU only) ones, so they do come with big implications for software development costs and programmer productivity. No single heterogeneous programming model has been agreed and championed by all the main heterogeneous systems vendors, which has been a major impediment to adoption in the weider community, and a drag on the porting of scientific codes to accelerated supercomputers.
 
-![alt text]({{site.url}}/assets/Chameon-ST40.jpg "An Inmos/STMicro Chameleon ST40 from 1996"){:width="25%"} 
+![alt text]({{site.url}}/assets/Chameon-ST40.jpg "An Inmos/STMicro Chameleon ST40 from 1996"){:width="50%"} 
 
 
 In the talk Simon showed some rare pictures of early heterogeneous systems, including an Inmos/STMicro Chameleon digital set top box CPU from 1996 (dual core, 64-bit, with on-chip accelerators for video and audio decode, amongst others), and a PixelFusion F150 GPU from 1999, the world's first fully-programmable GPU, which used 1,536 SIMD processors to deliver leading performance for professional graphics.
 
-![alt text]({{site.url}}/assets/F150-GPU.jpg "A PixelFusion F150 GPU from 1999"){:width="25%"} 
+![alt text]({{site.url}}/assets/F150-GPU.jpg "A PixelFusion F150 GPU from 1999"){:width="75%"} 
 
 The talk concluded with some reflections on how heterogeneous computing is here for the long term, how there's been progress in how these systems can be programmed, but there's still a long way to go in this respect. It also acknowledged that there's a valuable and critically important "long tail" of codes which may never port to GPUs, and that these users and codes also need to be embraced and supported.
 
