@@ -4,7 +4,7 @@ title: BabelStream v4.0 Released
 author: Tom Deakin
 ---
 
-![BabelStream logo repeated 4 times]({{site.url}}/assets/babelstream_v4.png){:width="75%"} 
+![BabelStream logo repeated 4 times]({{site.url}}/assets/babelstream_v4.png){:width="100%"} 
 
 We are pleased to announce the latest [release of BabelStream](https://github.com/UoB-HPC/BabelStream/releases/tag/v4.0). This update adds new implementations in parallel programming models, including ISO C++, SYCL 2020, TBB and Thrust. We also include new standalone implementations in the Julia, Rust and Scala languages. Our build system has been updated to use CMake exclusively, and provides recommended build parameters for major compilers for all programming models.
 
