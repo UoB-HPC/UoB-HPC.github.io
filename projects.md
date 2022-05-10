@@ -7,7 +7,7 @@ permalink: /projects/
 - [Isambard](http://gw4.ac.uk/isambard/)  
   The Isambard supercomputer, a collaboration between the GW4 Alliance, Cray Inc. and the Met Office, aims to deliver a Tier 2 high performance computing service for UK-based scientists. It will provide multiple advanced architectures within the same system, and includes 64-bit ARM CPUs, Intel Xeon and Xeon Phi processors and NVIDIA GPUs.
 
-- [BabelStream](http://uob-hpc.github.io/BabelStream/)  
+- [BabelStream](http://github.com/uob-hpc/BabelStream/)  
   A benchmark used to measure memory bandwidth, in a wide variety of programming models.
 
 - [MEGA-STREAM](http://github.com/uk-mac/mega-stream)  
