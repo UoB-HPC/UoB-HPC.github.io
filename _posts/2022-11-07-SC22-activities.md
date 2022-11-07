@@ -24,13 +24,13 @@ The Bristol HPC Group is also developing a modern, fast, cycle-accurate processo
 
 ## Panels and Birds of a Feathers
 
-One part of Supercomputing I really enjoy is the opportunities in Panels and Birds of a Feather sessions to interact and discuss important topics.
+One part of Supercomputing we really enjoy are the opportunities in Panels and Birds of a Feather sessions to interact and discuss important topics.
 
 On Sunday, Tom Deakin will appear as a panellist as part of the P3HPC'22 Workshop: ["Blending Accelerated Programming Models in the Face of Increasing Hardware Diversity"](https://sc22.supercomputing.org/presentation/?id=miscp111&sess=sess428). CJ Newburn (NVIDIA) is moderating and has chosen some tough but important questions for us to answer.
 
-On Tuesday, Tom Deakin with chair the SYCL Birds of a Feather, along with Michael Wong (Codeplay/Intel) and James Brodman (Intel): ["Khronos SYCL: Current and Future Directions"](https://sc22.supercomputing.org/presentation/?id=bof152&sess=sess321). We've got a great line up of panellists, so do come along to hear the latest updates about the SYCL ecosystem.
+On Tuesday, Tom Deakin will chair the SYCL Birds of a Feather, along with Michael Wong (Codeplay/Intel) and James Brodman (Intel): ["Khronos SYCL: Current and Future Directions"](https://sc22.supercomputing.org/presentation/?id=bof152&sess=sess321). We've got a great line up of panellists, so do come along to hear the latest updates about the SYCL ecosystem.
 
-On Wednesday, Simon McIntosh-Smith and Michael Klemm (AMD and CEO OpenMP ARB) will host the OpenMP Birds of a Feather: ["OpenMP API - Present and Future"](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof122&sess=sess351). This will definitely be one to catch to hear all about the incoming OpenMP 6.0. There are lots of other OpenMP-related events happening at Supercomputing; do checkout, so do checkout [this list to find out more](https://www.openmp.org/events/sc22/).
+On Wednesday, Simon McIntosh-Smith and Michael Klemm (AMD and CEO OpenMP ARB) will host the OpenMP Birds of a Feather: ["OpenMP API - Present and Future"](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof122&sess=sess351). This will definitely be one to catch to hear all about the incoming OpenMP 6.0. There are lots of other OpenMP-related events happening at Supercomputing, so do checkout [this list to find out more](https://www.openmp.org/events/sc22/).
 
 
 ## Tutorial
