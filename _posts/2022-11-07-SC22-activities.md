@@ -26,7 +26,7 @@ The Bristol HPC Group is also developing a modern, fast, cycle-accurate processo
 
 One part of Supercomputing I really enjoy is the opportunities in Panels and Birds of a Feather sessions to interact and discuss important topics.
 
-On Monday, Tom Deakin will appear as a panellist as part of the P3HPC'22 Workshop: ["Blending Accelerated Programming Models in the Face of Increasing Hardware Diversity"](https://sc22.supercomputing.org/presentation/?id=miscp111&sess=sess428). CJ Newburn (NVIDIA) is moderating and has chosen some tough but important questions for us to answer.
+On Sunday, Tom Deakin will appear as a panellist as part of the P3HPC'22 Workshop: ["Blending Accelerated Programming Models in the Face of Increasing Hardware Diversity"](https://sc22.supercomputing.org/presentation/?id=miscp111&sess=sess428). CJ Newburn (NVIDIA) is moderating and has chosen some tough but important questions for us to answer.
 
 On Tuesday, Tom Deakin with chair the SYCL Birds of a Feather, along with Michael Wong (Codeplay/Intel) and James Brodman (Intel): ["Khronos SYCL: Current and Future Directions"](https://sc22.supercomputing.org/presentation/?id=bof152&sess=sess321). We've got a great line up of panellists, so do come along to hear the latest updates about the SYCL ecosystem.
 
