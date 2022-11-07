@@ -9,7 +9,7 @@ permalink: /about/
 
 * [Prof Simon McIntosh-Smith](http://uob-hpc.github.io/SimonMS/) {% include icon-github.html username="simonmcs" %}
 
-* [Dr Tom Deakin](http://www.tomdeakin.com) {% include icon-github.html username="tomdeakin" %}
+* [Dr Tom Deakin](https://hpc.tomdeakin.com) {% include icon-github.html username="tomdeakin" %}
 * Mr Andrei Poenaru {% include icon-github.html username="andreipoe" %}, Arm-sponsored PhD student, moving to Cray/HPE
 * Mr Harry Waugh, ASiMoV PhD student
 * Mr Jack Jones, ASiMoV PhD student
