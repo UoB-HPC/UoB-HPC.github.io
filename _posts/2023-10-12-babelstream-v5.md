@@ -18,3 +18,5 @@ The benchmark now also reports timing and sustained bandwidth for the data initi
 Initial support for BabelStream is also available in the [Spack package manager](https://packages.spack.io/package.html?name=babelstream), thanks to support from an [ExCALIBUR project](https://hpc.tomdeakin.com/projects/excalibur-benchmarking).
 Bringing the complete software environment to run BabelStream using several of the programming models on a new platform (something the team here in Bristol does regularly) can be challenging due to the breadth of dependencies required (compilers, runtimes, libraries, etc). More details of building the benchmark with Spack will be shared at the [HPCTESTS Workshop at SC'23](https://sc23.supercomputing.org/presentation/?id=ws_hpct103&sess=sess464) in November.
 
+Thanks to the team here in the University of Bristol HPC Research Group, especially Wei-Chen (Tom) Lin and Kaan Olgu.
+
