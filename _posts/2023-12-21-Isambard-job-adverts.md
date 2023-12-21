@@ -15,9 +15,9 @@ The University of Bristol has been awarded over £300M to build and run Isambard
 This is a once in a lifetime opportunity to be involved from the very beginning for a brand-new, Tier 0 leadership class supercomputer, in an exciting new application area. We're looking for the best and brightest in our field, and we're offering permanent roles at generous grades to assemble the best team possible. Check out the engineer, specialist and lead roles at the links below, and please consider applying. We'd love to speak with you about joining our team!
 
 
-* [Isambard engineer:](https://www.bristol.ac.uk/jobs/find/details/?jobId=332035&jobTitle=AI%20Supercomputing%20Infrastructure%20Engineer).
-* [Isambard specialist:](https://www.bristol.ac.uk/jobs/find/details/?jobId=332041&jobTitle=AI%20Supercomputing%20Infrastructure%20Specialist).
-* [Isambard lead:](https://www.bristol.ac.uk/jobs/find/details/?jobId=332038&jobTitle=AI%20Supercomputing%20Infrastructure%20Lead).
+* [Isambard engineer](https://www.bristol.ac.uk/jobs/find/details/?jobId=332035&jobTitle=AI%20Supercomputing%20Infrastructure%20Engineer)
+* [Isambard specialist](https://www.bristol.ac.uk/jobs/find/details/?jobId=332041&jobTitle=AI%20Supercomputing%20Infrastructure%20Specialist)
+* [Isambard lead](https://www.bristol.ac.uk/jobs/find/details/?jobId=332038&jobTitle=AI%20Supercomputing%20Infrastructure%20Lead)
 
 
 > Simon McIntosh-Smith is the PI for the Isambard supercomputer projects, and director of the newly formed Bristol Centre for Supercomputing (BriCS). He is a Professor of High Performance Computing and Head of the HPC Research Group at the University of Bristol. Follow @simonmcs on Twitter for more news from the HPC research group in Bristol.
