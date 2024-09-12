@@ -2,12 +2,18 @@
 layout: home
 ---
 
-The High Performance Computing group, led by [Simon McIntosh-Smith](http://uob-hpc.github.io/SimonMS/), is part of the [Department of Computer Science](https://www.cs.bris.ac.uk) at the [University of Bristol](http://www.bristol.ac.uk).
+The High Performance Computing group, led by [Dr Tom Deakin](https://hpc.tomdeakin.com), is part of the [School of Computer Science](https://www.cs.bris.ac.uk) at the [University of Bristol](http://www.bristol.ac.uk).
 
-Our research focuses on the application of heterogeneous and many-core computing to solve large-scale scientific problems. Related research problems we are addressing include: performance portability across many-core devices; advanced computer architectures and simulation; and fault tolerance software techniques for resiliency at scale.
 
-The group maintains an experimental cluster of some of the fastest and most exotic GPUs and accelerators in the world - see the [web page](/zoo) for information on our ‘Zoo'.
+Our research focuses on the application of heterogeneous and many-core computing to solve large-scale scientific problems. Related research problems we are addressing include: performance portability across many-core devices and advanced computer architectures and simulation.
 
+The group collaborates closely with the [Bristol Centre for Supercomputing](https://isambard.ac.uk), the home of the UK's AIRR Isambard-AI.
+The group also maintains an experimental cluster of some of the fastest and most exotic GPUs and accelerators in the world.
+
+The HPC Research Group established an [Intel oneAPI Center of Excellence](https://www.bristol.ac.uk/engineering/news/2022/hpc-intel-oneapi-center-of-excellence.html) in 2022. The Group is also part of the University's [Arm Center of Excellence](https://community.arm.com/arm-research/b/articles/posts/university-of-bristol-an-arm-research-centre-of-excellence), set up in 2021.
+
+
+## History
 In 2017, led by Simon McIntosh-Smith, the GW4 Alliance, along partners Cray Inc. and the Met Office were awarded £3m by EPSRC to deliver a new production Tier 2 HPC system for UK-based researchers. The 'Isambard' system will explore multiple advanced computer architectures, including 64-bit ARM, and will focus on exploring the performance of the UK's most used HPC codes.
 
 Bristol University also boasts the [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk/) hosting the BlueCrystal supercomputers. BlueCrystal Phase 3 and Phase 4 both featured in the [Top 500](http://www.top500.org/) supercomputers in the world in 2013 and 2016 respectively. The University’s HPC resources on [Phase 4](https://www.acrc.bris.ac.uk/acrc/news.htm#BC4) include around 16,000 cores and 64 NVIDIA P100 GPUs resulting in a peak 600 teraflops of performance.
@@ -18,4 +24,3 @@ For example, the BUDE molecular docking code achieved 32% of peak performance an
 
 We also offer training in parallel programming. Simon McIntosh-Smith is one of the foremost OpenCL trainers in the world, having taught the subject since 2009. He has run many OpenCL training courses at conferences such as SuperComputing and HiPEAC, and has provided OpenCL training for academic endeavours, including the UK's national supercomputing service, the Barcelona Supercomputing Centre, and Uppsala’s UPMARC summer school. He has also run many OpenCL training courses for commercial entities. With OpenCL training experience ranging from half day on-site introductions within companies, to two-day intensive hands-on workshops for undergraduates, Simon and his team can provide customized OpenCL training to meet your needs. Get in touch if you'd like to know more.
 
-The new addition to the group Dr Jose Nunez-Yanez is an expert in FPGA programming both using RTL hardware description languages and also higher level of abstraction languages such as C++ and OpenCL for FPGA implementation. The group is working with Xilinx and Intel/Altera with a focus on low energy adaptive computing for video and machine learning applications. We have excellent knowledge on the Xilinx heterogenous computing platforms built with Zynq and Zynq Ultrascale devices using SDSoC, Vivado, SDAccel and Vivado HLS tools. We are now applying this expertise to the Intel HARP platforms (Xeon+FPGA in the same die) and the OpenCL framework. More info on these FPGA activities can be obtained at the following [link](http://www.bristol.ac.uk/engineering/people/jose-l-nunez-yanez/index.html).
